@@ -6,7 +6,7 @@ This project will automate collection of data on airfields in the Pacific Ocean,
 
 ## Rationale
 
-
+I consult with aerospace companies, investors, and other interested parties who need to understand business opportunities for new types of aircraft in various Pacific Ocean regions.
 
 ## Data Description
 
