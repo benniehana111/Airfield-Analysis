@@ -2,7 +2,7 @@
 
 ## Topic
 
-This project will automate collection of data on airfields in the Pacific Ocean, build an airfield database, and employ a neural network model to classify airfields based on their size, runway surface, facilities, and usage. 
+This project will automate collection of data on airfields in various regions of the Pacific Ocean, build an airfield database, and employ a neural network model to classify airfields based on their size, runway surface, facilities, and usage. 
 
 ## Rationale
 
