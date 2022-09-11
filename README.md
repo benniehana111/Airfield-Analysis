@@ -12,7 +12,7 @@ I consult with aerospace companies, investors, and other interested parties who 
 
 The data required for this study comes from two principal sources: Google Earth and Wikipedia.  
 
-Google Earth allows us to search selected geographic regions to identify all the airfields located in each geographic region and to compile a list of airfield names and/or alphanumeric codes that identify each airfield in that region. The list of airfields we collect from Google Earth are used to search Wikipedia for URLs that provide detailed information on each airfield. Wikipedia provides consistently formatted airfield information including: 
+Google Earth allows us to search selected geographic regions to identify all of the airfields located in each region and to compile a list of airfield names and/or alphanumeric codes that identify each airfield located within that region. The list of airfields collected from Google Earth are used to search Wikipedia for URLs that provide detailed information on each airfield. Wikipedia provides consistently formatted information on each airfield including: 
 
 (1) Number of runways  
 (2) Runway length/width  
