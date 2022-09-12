@@ -70,7 +70,7 @@ I will explore options to webscrape this data and to automate creation of variab
 
 ### Model Selection
 
-I have previously compiled a version of this dataset for islands in the Northern Pacific Ocean. I will use web scraping to automate collection of variables (1), (2), (3), and (4) for the Southern Pacific Ocean. Variable (4) may require some manual analysis to complete. Then I will use the Northern Pacific airfield dataset as training data for a neural network model, which will machine-generate variable (5).
+I have previously compiled a version of this dataset for islands in the Northern Pacific Ocean. I will use web scraping to automate collection of variables (1), (2), (3), and (4) for the Southern Pacific Ocean. Variable (4) may require some manual analysis to complete. Then I will use the Northern Pacific airfield dataset as training data for a neural network model that will machine-generate variable (5).
 
 ## Objectives
 
