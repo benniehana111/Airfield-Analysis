@@ -69,6 +69,10 @@ Wikipedia provides text narratives with additional information on airfield geogr
 
 Collecting and/or estimating these variables is not feasible within the time constraints of this project.
 
+### Model Selection
+
+I have previously compiled a version of this dataset for islands in the Northern Pacific Ocean. I will use web scraping to automate collection of variables (1), (2), (3), and (4) for the Southern Pacific Ocean. Variable (4) may require some manual analysis to complete. Then I will use the Northern Pacific airfield dataset as training data for a neural network model, which will machine-generate variable (5).
+
 ## Objectives
 
 Compiling this data will create a useful reference dataset that can be uploaded and browsed in Google Earth. Automating creation of this dataset will save large amounts of work required for manual data collection and analysis. The neural network model will provide a  classification schema for use in detailed transportation studies that inform decisions involving, aircraft basing, aircraft routing, and investments in upgrading existing airfields and/or developing new facilities.
