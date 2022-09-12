@@ -58,10 +58,10 @@ This variable is an imperfect proxy for the condition of runways and support fac
 
 Wikipedia provides text narratives with additional information on airfield geography, history, and operations. Additional information is available for some but not all airfields. These include:
 
-(5) available aircraft services
-(6) commercial carriers
-(7) air traffic statistics
-(8) named entities associated with the airfield and the nature of their association (operations, ownership, management, regulation, construction)
+(5) available aircraft services  
+(6) commercial carriers  
+(7) air traffic statistics  
+(8) named entities associated with the airfield and the nature of their association (operations, ownership, management, regulation, construction)  
 
 Collecting and/or estimating these variables is not feasible within the time constraints of this project.
 
