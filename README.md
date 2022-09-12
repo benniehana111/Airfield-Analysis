@@ -4,7 +4,7 @@ Google Earth allows us to search selected geographic regions to identify all of 
 (1) Number of runways  
 (2) Runway length/width  
 (3) Runway surface type  
-(4) Airfield type
+(4) Airfield type  
 (5) Airfield size
 
 *** Variable Analysis
@@ -41,10 +41,10 @@ This variable is an imperfect proxy for the condition of runways and support fac
 An additional variable in our sample dataset is:
 (5) Airfield size is an analyst-generated heuristic based on variables (1) thru (4) . This variable is in integer format. It is a categorical variable that bins airfields based on their overall capacity to sustain air operations. The airfield sizes are:
 
-#3 - airfields with multiple runways over 7,800 ft in length.
-#2 - airfields with multiple runways under 7,800 ft in length, or single runways with hard surfaces at least 7,800 ft in length.
-#1 - airfields with some combination of: single runways over 4,200 ft in length, regular air service, support facilities.
-#0 - airfields with some combination of single runways under 4,200 ft in length, lack of regular air service, no support facilities.
+#3 - airfields with multiple runways over 7,800 ft in length.  
+#2 - airfields with multiple runways under 7,800 ft in length, or single runways with hard surfaces at least 7,800 ft in length.  
+#1 - airfields with some combination of: single runways over 4,200 ft in length, regular air service, support facilities.  
+#0 - airfields with some combination of single runways under 4,200 ft in length, lack of regular air service, no support facilities.  
 
 Wikipedia provides text narratives with additional information on airfield geography, history, and operations. Additional information is available for some but not all airfields. These include:
 
