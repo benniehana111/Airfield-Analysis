@@ -1,4 +1,18 @@
 
+# Airfield-Analysis
+
+## Topic
+
+This project will automate collection of data on airfields in various regions of the Pacific Ocean, build an airfield database, and employ a neural network model to classify airfields based on their size, runway surface, facilities, and usage. 
+
+## Rationale
+
+I consult with aerospace companies, investors, and other interested parties who need to understand business opportunities for new types of aircraft in Pacific Ocean regions.
+
+## Data Description
+
+The data required for this study comes from two principal sources: Google Earth and Wikipedia. 
+
 Google Earth allows us to search selected geographic regions to identify all of the airfields located in each region and to compile a list of airfield names and/or alphanumeric codes that identify each airfield located within that region. The list of airfields collected from Google Earth are used to search Wikipedia for URLs that provide detailed information on each airfield. Wikipedia provides consistently formatted information on each airfield including: 
 
 (1) Number of runways  
@@ -7,7 +21,7 @@ Google Earth allows us to search selected geographic regions to identify all of 
 (4) Airfield type  
 (5) Airfield size
 
-*** Variable Analysis
+### Variable Analysis
 
 Both (1) Number of runways and (2) runway length/width are readily observable quantitative variables ... they can be collected from reported values on Wikipedia, or 
 collected directly from mensuration of satellite images on Google Earth. These variables are in integer format.
