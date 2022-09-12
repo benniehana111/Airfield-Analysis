@@ -28,13 +28,35 @@ An additional variable in our sample dataset is:
 Both (1) Number of runways and (2) runway length/width are readily observable quantitative variables ... they can be collected from reported values on Wikipedia, or 
 collected directly from mensuration of satellite images on Google Earth. These variables are in integer format.
 
-(3) Runway surface type is recorded for all airfields with Wikipedia pages, however it is an imperfect measure of the runway's qualitative state; the physical condition of runways with the same surface type may vary widely based on the quality of construction/materials, quality/frequency of subsequent maintenance/repairs, volume/frequency of usage, and local climactic conditions including seasonal temperature variations and events such as flooding/earthquakes. This variable is in string format. It is a categorical variable; each runway surface type is a distinct physical characteristic of an airfield runway. Aggregation across the categories may be useful; e.g.:
+(3) Runway surface type is recorded for all airfields with Wikipedia pages.This variable is in string format. It is a categorical variable; each surface type is a distinct physical characteristic of an airfield's runway(s). The surface types reported in Wikipedia are: 
 
-(4) Airfield types are a human-generated variable based on descriptive information contained in Wikipedia articles on individual airfields. This variable is an imperfect proxy for the condition of runway surfaces, aircraft maintenance & services, and flight control technology. Airfields with scheduled commercial service will generally be in good condtion with support facilities, airfields with unscheduled air taxi service will have poorer runway surfaces with limited support facilities, and overgrown airfields will have completely unmaintained surfaces with no facilities. Military airfields are a wildcard; they can range from meticulously maintained, high tech facilities to unmaintained, unsupported training sites. This variable is in string format. It is a categorical variable; each airport type is a distinct mode of airfield operations characteristic of the organizations who use the airfield. 
+Asphalt
+Concrete
+Asphalt/concrete
+Paved
+Macadam
+Coral
+Gravel
+Turf/gravel
+Turf
+Grass
 
-(5) Airfield class is a human-generated heuristic based on variables (1) thru (4) that bins airfields into one of four categories based on their capacity to sustain air operations.
+The surface variable is an imperfect measure of a runway's capacity for takeoffs/landings and variety of aircraft that can operate from the airfield. Runways with the same surface type may vary widely based on the quality of construction/materials, quality/frequency of subsequent maintenance/repairs, volume/frequency of usage, and local climactic conditions including seasonal temperature variations, precipitation, and events such as flooding/earthquakes. 
+Aggregation across surface categories may be useful, i.e., collapsing asphalt, concrete, asphalt/concrete, and paved into a single category.
 
-Wikipedia also provides text narratives with additional information on airfield geography, history, and operations. Additional information is available for some but not all airfields. These include:
+(4) Airfield types are an analyst-generated variable based on descriptive information contained in Wikipedia articles on individual airfields. This variable is in string format. It is a categorical variable; each airport type is a distinct mode of airfield operations characteristic of the organizations who use the airfield. The airfield types are:
+
+Commercial - airfields with scheduled commercial service - well maintained runways with paved surfaces - support facilities including terminals, control towers, hangars, refueling.
+General - public airfields - adequate runway maintenance with variety of surfaces - limited support facilities.
+Air taxi - airfields with unscheduled air taxi service - limited maintenance of typically unpaved surfaces - no support facilities.
+Unimproved -  airfields will have completely unmaintained surfaces (usually grass) - no support facilities.
+Military - military airfields are a wildcard; they can range from meticulously maintained, high tech facilities to unmaintained, unsupported training sites.
+
+This variable is an imperfect proxy for the condition of runways and support facilities. 
+
+(5) Airfield class is an analyst-generated heuristic based on variables (1) thru (4) that bins airfields into one of four categories based on their overall capacity to sustain air operations.
+
+Wikipedia provides text narratives with additional information on airfield geography, history, and operations. Additional information is available for some but not all airfields. These include:
 
 (5) available aircraft services
 (6) commercial carriers
