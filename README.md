@@ -21,9 +21,9 @@ Google Earth allows us to search selected geographic regions to identify all of 
 (4) Airfield type  
 (5) Airfield size
 
-![alt text](https://github.com/benniehana111/Aviation-Analysis/tree/main/Images/Wikipedia_Saipan_Intl_Airport.png)
+![alt text](https://https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/Wikipedia_Saipan_Intl_Airport.png)
 
-![alt text](https://github.com/benniehana111/Aviation-Analysis/tree/main/Images/Wikipedia_Maloelap_Airport_Taroa_Airfield.png)
+![alt text](https://https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/Wikipedia_Maloelap_Airport_Taroa_Airfield.png)
 
 ### Variable Analysis
 
@@ -75,7 +75,7 @@ I will explore options to webscrape this data and to automate creation of variab
 ### Model Selection
 
 I have previously compiled a version of this dataset for islands in the Northern Pacific Ocean.
-![alt text](https://github.com/benniehana111/Aviation-Analysis/tree/main/Images/North_Pacific_airfield_map.png)
+![alt text](https://https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/North_Pacific_airfield_map.png)
 
 I will use web scraping to automate collection of variables (1), (2), (3), and (4) for the Southern Pacific Ocean. Variable (4) may require some manual analysis to complete. Then I will use the Northern Pacific airfield dataset as training data for a neural network model that will machine-generate variable (5).
 
