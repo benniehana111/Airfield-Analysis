@@ -20,11 +20,11 @@ Google Earth allows us to search selected geographic regions to identify all of 
 (4) Airfield type  
 (5) Airfield size  
 
-Wikipedia sample #2.
+Wikipedia sample #1.
 
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/Wikipedia_Saipan_Intl_Airport.png)
 
-Wikipedia sample #1.
+Wikipedia sample #2.
 
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/Wikipedia_Maloelap_Airport_Taroa_Airfield.png)
 
@@ -77,11 +77,11 @@ I will explore options to webscrape this data and to automate creation of variab
 
 ### Model Selection
 
-I have previously compiled a version of this dataset for islands in the Northern Pacific Ocean.
+I have previously compiled a version of this dataset for islands in the Northern Pacific Ocean:
 
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/North_Pacific_airfield_map.png)
 
-I will use web scraping to automate collection of variables (1), (2), (3), and (4) for the Southern Pacific Ocean. 
+I will use web scraping to automate collection of variables (1), (2), (3), and (4) for the Southern Pacific Ocean: 
 
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/South_Pacific_region.png)
 
