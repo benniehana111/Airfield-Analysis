@@ -60,14 +60,13 @@ An additional variable in our sample dataset is:
 #1 - airfields with some combination of: single runways over 4,200 ft in length, regular air service, support facilities.  
 #0 - airfields with some combination of single runways under 4,200 ft in length, lack of regular air service, no support facilities.  
 
-Wikipedia provides text narratives with additional information on airfield geography, history, and operations. Additional information is available for some but not all airfields. These include:
+Wikipedia provides text narratives (and occasionally tables) with additional information on airfield geography, history, and operations. This additional information is available for some but not all airfields. These include:
 
-(6) available aircraft services  
-(7) commercial carriers  
+(6) aviation support facilities  
+(7) commercial carriers and flights  
 (8) air traffic statistics  
-(9) named entities associated with the airfield and the nature of their association (operations, ownership, management, regulation, construction)  
 
-Collecting and/or estimating these variables is not feasible within the time constraints of this project.
+I will explore options to webscrape this data and to automate creation of variable (4).
 
 ### Model Selection
 
