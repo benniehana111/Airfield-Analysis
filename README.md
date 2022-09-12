@@ -30,27 +30,27 @@ collected directly from mensuration of satellite images on Google Earth. These v
 
 (3) Runway surface type is recorded for all airfields with Wikipedia pages.This variable is in string format. It is a categorical variable; each surface type is a distinct physical characteristic of an airfield's runway(s). The surface types reported in Wikipedia are: 
 
-Asphalt
-Concrete
-Asphalt/concrete
-Paved
-Macadam
-Coral
-Gravel
-Turf/gravel
-Turf
-Grass
+Asphalt  
+Concrete  
+Asphalt/concrete  
+Paved  
+Macadam  
+Coral  
+Gravel  
+Turf/gravel  
+Turf  
+Grass  
 
 The surface variable is an imperfect measure of a runway's capacity for takeoffs/landings and variety of aircraft that can operate from the airfield. Runways with the same surface type may vary widely based on the quality of construction/materials, quality/frequency of subsequent maintenance/repairs, volume/frequency of usage, and local climactic conditions including seasonal temperature variations, precipitation, and events such as flooding/earthquakes. 
 Aggregation across surface categories may be useful, i.e., collapsing asphalt, concrete, asphalt/concrete, and paved into a single category.
 
 (4) Airfield types are an analyst-generated variable based on descriptive information contained in Wikipedia articles on individual airfields. This variable is in string format. It is a categorical variable; each airport type is a distinct mode of airfield operations characteristic of the organizations who use the airfield. The airfield types are:
 
-Commercial - airfields with scheduled commercial service - well maintained runways with paved surfaces - support facilities including terminals, control towers, hangars, refueling.
-General - public airfields - adequate runway maintenance with variety of surfaces - limited support facilities.
-Air taxi - airfields with unscheduled air taxi service - limited maintenance of typically unpaved surfaces - no support facilities.
-Unimproved -  airfields will have completely unmaintained surfaces (usually grass) - no support facilities.
-Military - military airfields are a wildcard; they can range from meticulously maintained, high tech facilities to unmaintained, unsupported training sites.
+Commercial - airfields with scheduled commercial service - well maintained runways with paved surfaces - support facilities including terminals, control towers, hangars, refueling.  
+General - public airfields - adequate runway maintenance with variety of surfaces - limited support facilities.  
+Air taxi - airfields with unscheduled air taxi service - limited maintenance of typically unpaved surfaces - no support facilities.  
+Unimproved -  airfields will have completely unmaintained surfaces (usually grass) - no support facilities.  
+Military - military airfields are a wildcard; they can range from meticulously maintained, high tech facilities to unmaintained, unsupported training sites.  
 
 This variable is an imperfect proxy for the condition of runways and support facilities. 
 
