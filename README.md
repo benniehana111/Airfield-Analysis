@@ -2,7 +2,7 @@
 
 ## Topic
 
-This project will automate collection of data on airfields in various regions of the Pacific Ocean, build an airfield database, and employ a neural network model to classify airfields based on the number, length, and surface material of their runway(s), aviation support facilities and usage. 
+This project will automate collection of data on airfields in various regions of the Pacific Ocean, build an airfield database, and employ a supervised learning model to classify airfields based on the number, length, and surface material of their runway(s), aviation support facilities and usage. 
 
 ## Rationale
 
@@ -85,7 +85,7 @@ I will use web scraping to automate collection of variables (1), (2), (3), and (
 
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/South_Pacific_region.png)
 
-Variable (4) may require some manual analysis to complete. Then I will use the Northern Pacific airfield dataset as training data for a neural network model that will machine-generate variable (5).
+Variable (4) may require some manual analysis to complete. Then I will use the Northern Pacific airfield dataset as training data for a supervised learning model that will machine-generate variable (5).
 
 ## Objectives
 
