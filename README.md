@@ -1,8 +1,9 @@
+
 # Airfield-Analysis
 
 ## Topic
 
-This project will automate collection of data on airfields in various regions of the Pacific Ocean, build an airfield database, and employ a supervised learning model to classify airfields based on the number, length, and surface material of their runway(s), aviation support facilities and usage. 
+This project will automate collection of data on airfields in various regions of the Pacific Ocean, build an airfield database, and employ a neural network model to classify airfields based on the length of their runways, surface material of their runway(s), aviation support facilities and usage. 
 
 ## Rationale
 
@@ -10,15 +11,23 @@ I consult with aerospace companies, investors, and other interested parties who 
 
 ## Data Description
 
-The data required for this study comes from two principal sources: Google Earth and Wikipedia. 
+The data required for this study comes from two principal sources: Airportdatabase.net and Wikipedia. 
 
-Google Earth allows us to search selected geographic regions to identify all of the airfields located in each region and to compile a list of airfield names and/or alphanumeric codes that identify each airfield located within that region. The list of airfields collected from Google Earth are used to search Wikipedia for URLs that provide detailed information on each airfield. Wikipedia provides consistently formatted information on each airfield including: 
+Airportdatabase.net allows us to search selected geographic regions to identify all of the airfields located in each region and to compile a list of airfield within that region, with airfield data including:
 
-(1) Number of runways  
-(2) Runway length/width  
-(3) Runway surface type  
-(4) Airfield type  
-(5) Airfield size  
+Airfield name, GPS and IATA codes
+Latitude, longitude
+Runway length, width
+Radio, navigation aid frequencies
+Scheduled air service (yes/no)
+Servicing airlines
+Wikipedia link
+
+The Wikipedia links from airportdatabase.net are used to connect to each airfield's Wikipedia page, to collect more detailed information including:
+
+Runway surface type  
+Destinations of connecting flights
+Flight statistics  
 
 Wikipedia sample #1.
 
@@ -30,8 +39,8 @@ Wikipedia sample #2.
 
 ### Variable Analysis
 
-Both (1) Number of runways and (2) runway length/width are readily observable quantitative variables ... they can be collected from reported values on Wikipedia, or 
-collected directly from mensuration of satellite images on Google Earth. These variables are in integer format.
+Runway lengths are recorded for all airfields in airportdatabase.net. This variable is in integer format. It is a continuous variable.
+Some airfields in the region have two runways, so we will encode a second runway length variable that will have a value of zero for single runway airfields.
 
 (3) Runway surface type is recorded for all airfields with Wikipedia pages.This variable is in string format. It is a categorical variable; each surface type is a distinct physical characteristic of an airfield's runway(s). The surface types reported in Wikipedia are: 
 
@@ -77,16 +86,29 @@ I will explore options to webscrape this data and to automate creation of variab
 
 ### Model Selection
 
-I have previously compiled a version of this dataset for islands in the Northern Pacific Ocean:
+I have previously compiled a version of this dataset for islands in the Northern Pacific Ocean: 
 
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/North_Pacific_airfield_map.png)
 
-I will use web scraping to automate collection of variables (1), (2), (3), and (4) for the Southern Pacific Ocean: 
+I will use web scraping to automate collection of variables (1), (2), (3), and (4) for the Southern Pacific Ocean:  
 
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/South_Pacific_region.png)
 
-Variable (4) may require some manual analysis to complete. Then I will use the Northern Pacific airfield dataset as training data for a supervised learning model that will machine-generate variable (5).
+Variable (4) may require some manual analysis to complete. Then I will use the Northern Pacific airfield dataset as training data for a neural network model that will machine-generate variable (5).
 
 ## Objectives
 
 Compiling this data will create a useful reference dataset that can be uploaded and browsed in Google Earth. Automating creation of this dataset will save large amounts of work required for manual data collection and analysis. The neural network model will provide a  classification schema for use in detailed transportation studies that inform decisions involving, aircraft basing, aircraft routing, and investments in upgrading existing airfields and/or developing new facilities.
+
+# Technologies Used
+## Data Cleaning and Analysis
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+
+## Database Storage
+Mongo is the database we intend to use, and we will integrate Flask to display the data.
+
+## Machine Learning
+SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is ___. Extra ML verbiage here.
+
+## Dashboard
+In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
