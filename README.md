@@ -1,3 +1,36 @@
+
+# Airfield-Analysis
+
+## Topic
+
+This project will automate collection of data on airfields in various regions of the Pacific Ocean, build an airfield database, and employ an unsupervised learning model to classify airfields based on the length/width of their runway(s), surface material of their runway(s), number of radio frequencies and navigation aids, and number of airlines providing scheduled service. 
+
+## Rationale
+
+I consult with aerospace companies, investors, and other interested parties who need to understand business opportunities for new types of aircraft in Pacific Ocean regions.
+
+## Data Description
+
+The data required for this study comes from two principal sources: Airportdatabase.net and Wikipedia. 
+
+Airportdatabase.net allows us to identify all of the airfields in a selected country or region and to collect airfield data including:
+
+Airfield name, GPS and IATA codes
+Latitude, longitude
+Elevation
+Runway length, width
+Number and frequencies of radio stations and navigation aids
+Names of airlines providing scheduled service
+URL for the airfields Wikipedia page
+
+The Wikipedia links from airportdatabase.net are used to connect to each airfield's Wikipedia page, to collect more detailed information including:
+
+Runway surface type  
+Destinations of connecting flights
+Flight statistics  
+
+Wikipedia sample #1.
+
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/Wikipedia_Saipan_Intl_Airport.png)
 
 Wikipedia sample #2.
