@@ -99,7 +99,9 @@ The available data from airportdatabase.net breaks airfields into three categori
 
 The ML model is run in Python using the sklearn library, K-means algorithm.  2D and 3D plots of the airfield clusters are generated with plotly.express and hvplot.pandas.
 
-The provisional model is in the Model branch, Airfields_K-means_algorithm.ipynb file, showing provisional results of the clustering with K = 6.
+The provisional model is in the Model branch, Airfields_K-means_algorithm.ipynb file, showing provisional results of the clustering with K = 6. The 3D plot shows a logical clustering of airfields with the same runway surface and similar runway lengths:  
+
+![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/20220917_Provisional_cluster_k6.png)
 
 ## Objectives
 
