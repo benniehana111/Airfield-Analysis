@@ -1,36 +1,3 @@
-
-# Airfield-Analysis
-
-## Topic
-
-This project will automate collection of data on airfields in various regions of the Pacific Ocean, build an airfield database, and employ a neural network model to classify airfields based on the length of their runways, surface material of their runway(s), aviation support facilities and usage. 
-
-## Rationale
-
-I consult with aerospace companies, investors, and other interested parties who need to understand business opportunities for new types of aircraft in Pacific Ocean regions.
-
-## Data Description
-
-The data required for this study comes from two principal sources: Airportdatabase.net and Wikipedia. 
-
-Airportdatabase.net allows us to search selected geographic regions to identify all of the airfields located in each region and to compile a list of airfield within that region, with airfield data including:
-
-Airfield name, GPS and IATA codes
-Latitude, longitude
-Runway length, width
-Radio, navigation aid frequencies
-Scheduled air service (yes/no)
-Servicing airlines
-Wikipedia link
-
-The Wikipedia links from airportdatabase.net are used to connect to each airfield's Wikipedia page, to collect more detailed information including:
-
-Runway surface type  
-Destinations of connecting flights
-Flight statistics  
-
-Wikipedia sample #1.
-
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/Wikipedia_Saipan_Intl_Airport.png)
 
 Wikipedia sample #2.
@@ -39,10 +6,10 @@ Wikipedia sample #2.
 
 ### Variable Analysis
 
-Runway lengths are recorded for all airfields in airportdatabase.net. This variable is in integer format. It is a continuous variable.
+(1) Runway length/width are recorded for all airfields in airportdatabase.net. This variable is in integer format. It is a continuous variable.
 Some airfields in the region have two runways, so we will encode a second runway length variable that will have a value of zero for single runway airfields.
 
-(3) Runway surface type is recorded for all airfields with Wikipedia pages.This variable is in string format. It is a categorical variable; each surface type is a distinct physical characteristic of an airfield's runway(s). The surface types reported in Wikipedia are: 
+(2) Runway surface type is recorded for all airfields with Wikipedia pages.This variable is in string format. It is a categorical variable; each surface type is a distinct physical characteristic of an airfield's runway(s). The surface types reported in Wikipedia are: 
 
 Asphalt  
 Concrete  
@@ -55,34 +22,13 @@ Turf/gravel
 Turf  
 Grass  
 
-The surface variable is an imperfect measure of a runway's capacity for takeoffs/landings and variety of aircraft that can operate from the airfield. Runways with the same surface type may vary widely based on the quality of construction/materials, quality/frequency of subsequent maintenance/repairs, volume/frequency of usage, and local climactic conditions including seasonal temperature variations, precipitation, and events such as flooding/earthquakes. 
+The surface variable is an imperfect measure of a runway's capacity for takeoffs/landings and variety of aircraft that can operate from the airfield. Runways with the same surface type may vary widely based on the quality of construction/materials, quality/frequency of subsequent maintenance/repairs, volume/frequency of usage, and local climactic conditions including seasonal temperature variations, precipitation, and events such as flooding/earthquakes.  
+
 Aggregation across surface categories may be useful, i.e., collapsing asphalt, concrete, asphalt/concrete, and paved into a single category.
 
-(4) Airfield types are an analyst-generated variable based on descriptive information contained in Wikipedia articles on individual airfields. This variable is in string format. It is a categorical variable; each airport type is a distinct mode of airfield operations characteristic of the organizations who use the airfield. The airfield types are:
+(3) Public and commercial airfields generally have one or more radio stations and navigation beacons; the name and wavelength for each of are reported on airportdatabase.net. I will count the number of radio frequencies and navigation aids to create a numerical variable in integer format.
 
-Commercial - airfields with scheduled commercial service - well maintained runways with paved surfaces - support facilities including terminals, control towers, hangars, refueling.  
-General - public airfields - adequate runway maintenance with variety of surfaces - limited support facilities.  
-Air taxi - airfields with unscheduled air taxi service - limited maintenance of typically unpaved surfaces - no support facilities.  
-Unimproved -  airfields will have completely unmaintained surfaces (usually grass) - no support facilities.  
-Military - military airfields are a wildcard; they can range from meticulously maintained, high tech facilities to unmaintained, unsupported training sites.  
-
-This variable is an imperfect proxy for the condition of runways and support facilities. 
-
-An additional variable in our sample dataset is:
-(5) Airfield size is an analyst-generated heuristic based on variables (1) thru (4) . This variable is in integer format. It is a categorical variable that bins airfields based on their overall capacity to sustain air operations. The airfield sizes are:
-
-#3 - airfields with multiple runways over 7,800 ft in length.  
-#2 - airfields with multiple runways under 7,800 ft in length, or single runways with hard surfaces at least 7,800 ft in length.  
-#1 - airfields with some combination of: single runways over 4,200 ft in length, regular air service, support facilities.  
-#0 - airfields with some combination of single runways under 4,200 ft in length, lack of regular air service, no support facilities.  
-
-Wikipedia provides text narratives (and occasionally tables) with additional information on airfield geography, history, and operations. This additional information is available for some but not all airfields. These include:
-
-(6) aviation support facilities  
-(7) commercial carriers and flights  
-(8) air traffic statistics  
-
-I will explore options to webscrape this data and to automate creation of variable (4).
+(4) The name and nationality of each commercial airline providing scheduled service to an airfield are reported on airportdatabase.net. I will count the number of airlines in order to create a numerical variable in integer format.
 
 ### Model Selection
 
@@ -105,10 +51,10 @@ Compiling this data will create a useful reference dataset that can be uploaded 
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 ## Database Storage
-Mongo is the database we intend to use, and we will integrate Flask to display the data.
+We will use SQL to store the data.
 
 ## Machine Learning
 SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is ___. Extra ML verbiage here.
 
 ## Dashboard
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
+We will use Tableau to create the dashboard.
