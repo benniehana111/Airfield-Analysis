@@ -11,7 +11,7 @@ I consult with aerospace companies, investors, and other interested parties who 
 
 ## Data Description
 
-The data required for this study comes from two principal sources: Airportdatabase.net and Wikipedia. 
+The data required for this study comes from two principal sources: Airportdatabase.net and Wikipedia. Google Earth can also be used to visually inspect for missing variables.
 
 Airportdatabase.net allows us to identify all of the airfields in a selected country or region and to collect airfield data including:
 
@@ -23,19 +23,25 @@ Number and frequencies of radio stations and navigation aids
 Names of airlines providing scheduled service
 URL for the airfields Wikipedia page
 
+Airportdatabase.net sample:  
+
+![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/AirportsDB_Saipan_Intl_Airport.png)
+
 The Wikipedia links from airportdatabase.net are used to connect to each airfield's Wikipedia page, to collect more detailed information including:
 
 Runway surface type  
 Destinations of connecting flights
 Flight statistics  
 
-Wikipedia sample #1.
+Wikipedia sample:  
 
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/Wikipedia_Saipan_Intl_Airport.png)
 
-Wikipedia sample #2.
+For airfields with no data available on Wikipedia, they can be located with their latitude/longitude in Google Earth, where runway size and surface can be assessed visually.
 
-![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/Wikipedia_Maloelap_Airport_Taroa_Airfield.png)
+Google Earth sample:
+
+![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/Google_Earth_Ujae_airstrip.png)
 
 ### Variable Analysis
 
