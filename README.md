@@ -1,4 +1,3 @@
-
 # Airfield-Analysis
 
 ## Topic
@@ -50,7 +49,7 @@ Google Earth sample:
 
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/Google_Earth_Ujae_airstrip.png)
 
-### Variable Analysis
+### Variable Analysis:
 
 (1) Runway length/width are recorded for all airfields in airportdatabase.net. This variable is in integer format. It is a continuous variable.
 Some airfields in the region have two runways, so we will encode a second runway length variable that will have a value of zero for single runway airfields.
@@ -90,7 +89,7 @@ In addition, the original data for the Northern Pacific Ocean will be updated wi
 
 ### Final database:
 
-The final database will be compiled by webscraping the tabular data for all airfields from airportdatabase.net, then adding runway surface data and missing values collected manually from Wikipedia and Google Earth. This database will be built in SQL; the database design and entity relationship diagram are in the Airfields.sql, Airfields.pgerd, and Airfields_ERD.png files in the Resources folder.
+The final database will be compiled by webscraping the tabular data for all airfields from airportdatabase.net, then adding runway surface data and missing values collected manually from Wikipedia and Google Earth. The collected data will be transformed with pandas, then loaded into SQL. The SQL database design and entity relationship diagram are in the Airfields.sql, Airfields.pgerd, and Airfields_ERD.png files in the Database branch, Resources folder..
 
 ## Model Selection
 
@@ -98,9 +97,10 @@ Initial modeling experiments explored using the provisional dataset as training 
 
 The available data from airportdatabase.net breaks airfields into three categories; small, medium, and large. These categories are not sufficient to distinguish between the functional categories of airfields that are important for operational and strategic analysis. To support this analysis requires segregating airfields into at least groups based on the on their operational attributes. To achieve this, an unsupervised machine learning model - K-means clustering - will be used to group the airfields into their functional categories.
 
-The provisional model is in the Airfields_K-means_algorithm.ipynb file.
+The ML model is run in Python using the sklearn library, K-means algorithm.  2D and 3D plots of the airfield clusters are generated with plotly.express and hvplot.pandas.
+
+The provisional model is in the Model branch, Airfields_K-means_algorithm.ipynb file, showing provisional results of the clustering with K = 6.
 
 ## Objectives
 
 Compiling this data will create a useful reference dataset that can be uploaded and browsed in Google Earth. Automating creation of this dataset will save large amounts of work required for manual data collection and analysis. The clustering analysis will provide a  classification schema for use in detailed transportation studies that inform decisions involving, aircraft basing, aircraft routing, and investments in upgrading existing airfields and/or developing new facilities.
-
