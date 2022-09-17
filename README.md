@@ -9,6 +9,10 @@ This project will automate collection of data on airfields in various regions of
 
 I consult with aerospace companies, investors, and other interested parties who need to understand business opportunities for new types of aircraft in Pacific Ocean regions.
 
+## Communication Protocols
+
+I am conducting this project solo, so their are no communication protocols. However, the GitHub repo for the project is dividided into three branches; Main, Database, and Model.
+
 ## Data Description
 
 The data required for this study comes from two principal sources: Airportdatabase.net and Wikipedia. Google Earth can also be used to visually inspect for missing variables.
@@ -82,12 +86,21 @@ This project will use web scraping to automate collection of data for the Southe
 
 ![alt text](https://github.com/benniehana111/Airfield-Analysis/blob/main/Images/South_Pacific_region.png)
 
-In addition, the original data for the Northern Pacific Ocean will be augmented with information from airportdatabases.net.
+In addition, the original data for the Northern Pacific Ocean will be updated with the information from airportdatabases.net.
 
-### Model Selection
+### Final database:
 
-The available data from airportdatabase.net breaks airfields into three categoriies; small, medium, and large. These categories are not sufficient to distinguish between the functional categories of airfields that are important for operational and strategic analysis. To support this analysis requires segregating airfields into 10-12 groups based on available data for their operational attributes. To achieve this, an unsupervised machine learning model - K-means clustering - will be used to group the airfields into their functional categories.
+The final database will be compiled by webscraping the tabular data for all airfields from airportdatabase.net, then adding runway surface data and missing values collected manually from Wikipedia and Google Earth. This database will be built in SQL; the database design and entity relationship diagram are in the Airfields.sql, Airfields.pgerd, and Airfields_ERD.png files in the Resources folder.
+
+## Model Selection
+
+Initial modeling experiments explored using the provisional dataset as training data for a neural network, then for a multinomial logistic regression. After further analysis -- particularly the implications of finding additional data fields for radio stations, navigation aids, and airline service in airplanedatabase.net -- both of these approaches were discarded. It was decided that the best use of this data was to group airfields into functional categories with an unsupervised learning model.
+
+The available data from airportdatabase.net breaks airfields into three categories; small, medium, and large. These categories are not sufficient to distinguish between the functional categories of airfields that are important for operational and strategic analysis. To support this analysis requires segregating airfields into at least groups based on the on their operational attributes. To achieve this, an unsupervised machine learning model - K-means clustering - will be used to group the airfields into their functional categories.
+
+The provisional model is in the Airfields_K-means_algorithm.ipynb file.
 
 ## Objectives
 
 Compiling this data will create a useful reference dataset that can be uploaded and browsed in Google Earth. Automating creation of this dataset will save large amounts of work required for manual data collection and analysis. The clustering analysis will provide a  classification schema for use in detailed transportation studies that inform decisions involving, aircraft basing, aircraft routing, and investments in upgrading existing airfields and/or developing new facilities.
+
