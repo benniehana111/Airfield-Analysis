@@ -16,13 +16,13 @@ The data required for this study comes from two principal sources: Airportdataba
 ### Airportdatabase.net:  
 This data source allows us to identify all of the airfields in a selected country or region and to collect airfield data including:
 
-Airfield name, GPS and IATA codes
-Latitude, longitude
-Elevation
-Runway length, width
-Number and frequencies of radio stations and navigation aids
-Names of airlines providing scheduled service
-URL for the airfields Wikipedia page
+Airfield name, GPS and IATA codes  
+Latitude, longitude  
+Elevation  
+Runway length, width  
+Number and frequencies of radio stations and navigation aids  
+Names of airlines providing scheduled service  
+URL for the airfields Wikipedia page  
 
 Airportdatabase.net sample:  
 
