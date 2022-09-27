@@ -1,0 +1,165 @@
+﻿Name,Country,Archipelago,Latitude,Longitude,Type,Military,Runway_1,Runway_2,Surface,Class
+Naha Airport,Indonesia,Sangihe Islands,3.6828309,125.5282824,1,No,5240,0,Asphalt,0
+Matak Island Airport,Indonesia,Riau Islands,3.3437754,106.257049,1,No,4200,0,Asphalt,0
+Basco Airport,Philippines,Batane Islands,20.4491383,121.9760664,1,No,4081,0,Asphalt,0
+Francisco B. Reyes Airport,Philippines,Palawan Archipelago,12.1198332,120.0987196,1,No,4019,0,Concrete,0
+El Nido Airport,Philippines,Palawan Archipelago,11.202154,119.416457,1,No,4000,0,Concrete,0
+Tambelan Island Airport,Indonesia,Tambelan Archipelago,0.9833723,107.5668621,1,No,3937,0,Asphalt,0
+Kikai Airport,Japan,Ryukyu Islands,28.3197961,129.9274656,1,No,3937,0,Asphalt,0
+Yoron Airport,Japan,Ryukyu Islands,27.043197,128.4000982,1,No,3937,0,Asphalt/Concrete,0
+Pamalican Island Airport,Philippines,Palawan Archipelago,11.3563258,120.7291142,1,No,3937,0,Concrete,0
+Matsu Beigan Airport,Taiwan,Matsu Islands,26.22436,120.001,1,No,3773,0,Concrete,0
+Lanyu Airport,Taiwan,Orchid Island,22.027815,121.5357,1,No,3684,0,Paved,0
+Cesar Lim Rodriguez Airport,Philippines,Palawan Archipelago,11.0503019,119.5193196,1,No,3610,0,Concrete,0
+Itbayat Airport,Philippines,Batane Islands,20.7236765,121.8097656,1,No,3500,0,Concrete,0
+Lyudao Airport,Taiwan,Green Island,22.67236,121.4668,1,No,3255,0,Asphalt,0
+Yonaguni Airport,Japan,Ryukyu Islands,24.4659435,122.9797617,1,No,3154,0,Asphalt/Concrete,0
+Ulithi Airport,Micronesia,Caroline Islands,10.0199796,139.7896099,1,No,3000,0,Concrete,0
+Cuyo Island Airfield,Philippines,Palawan Archipelago,10.8603254,121.0703712,1,No,2840,0,Gravel,0
+Qimei Airport (CMJ),Taiwan,Pescadore Islands,23.2117096,119.417887,1,No,2766,0,Concrete,0
+Wangan Airport,Taiwan,Pescadore Islands,23.3673316,119.5024108,1,No,2723,0,Asphalt,0
+Hateruma Airport,Japan,Ryukyu Islands,24.0602304,123.8045109,1,No,2625,0,Asphalt/Concrete,0
+Aguni Airport,Japan,Ryukyu Islands,26.5928022,127.2393831,1,No,2625,0,Asphalt/Concrete,0
+Kerama Airport,Japan,Ryukyu Islands,26.1690555,127.2936611,1,No,2625,0,Asphalt/Concrete,0
+Calayan Airport,Philippines,Babuyan Islands,19.2581825,121.4873351,1,No,2600,0,Concrete,0
+Taiping Island Airbase,Taiwan,Spratly Islands,10.3770533,114.3654603,1,Yes,3937,0,Concrete,0
+Thitu Island Airbase,Philippines,Spratly Islands,11.0533128,114.2851133,1,Yes,3900,0,Grass,0
+Truong Sa Airbase,Vietnam,Spratly Islands,8.645544793,111.9202258,1,Yes,2700,0,Concrete,0
+Rota Intl Airport,U.S.,Mariana Islands,14.172008,145.243761,1,No,7000,0,Asphalt,1
+Angaur Airfield,Palau,Caroline Islands,6.9008408,134.1390902,1,No,7000,0,Gravel,1
+Sanga-Sanga Airport,Philippines,Sulu Archipelago,5.0452657,119.7429815,1,No,6102,0,Concrete,1
+Jolo Airport,Philippines,Sulu Archipelago,6.0529725,121.0055339,1,No,6053,0,Asphalt,1
+Peleliu Airfield,Palau,Caroline Islands,6.9983333,134.2327778,1,No,6000,0,Gravel,1
+Con Son Island Airport,Vietnam,Con Dao Islands,8.7302411,106.6284353,1,No,5924,0,Concrete,1
+Rio Tuba Airport,Philippines,Palawan Archipelago,8.549897,117.4361834,1,No,5400,0,Asphalt,1
+San Vicente Airport,Philippines,Palawan Archipelago,10.523067,119.274486,1,No,5288,0,Concrete,1
+Melangguane Airport,Indonesia,Talaud Islands,4.0059174,126.6747569,1,No,5240,0,Asphalt,1
+Matsu Nangan Airport,Taiwan,Matsu Islands,26.1573804,119.956396,1,No,5180,0,Concrete,1
+Tarama Airport,Japan,Ryukyu Islands,24.6538026,124.6757463,1,No,4921,0,Asphalt/Concrete,1
+Kitadaito Airport,Japan,Ryukyu Islands,25.9443517,131.3251797,1,No,4921,0,Asphalt/Concrete,1
+Minamidaito Airport,Japan,Ryukyu Islands,25.8459536,131.2649828,1,No,4921,0,Asphalt/Concrete,1
+Jemaja Island Airport,Indonesia,Riau Islands,2.9629508,105.7548713,1,No,4692,0,Asphalt,1
+Miangas Island Airport,Indonesia,Talaud Islands,5.5616593,126.5811779,1,No,4593,0,Asphalt,1
+Okinoerabu Airport,Japan,Ryukyu Islands,27.4331345,128.7047594,1,No,4593,0,Asphalt/Concrete,1
+Siau Airport,Indonesia,Sangihe Islands,2.6499334,125.4238027,1,No,4300,0,Asphalt,1
+Aeon Airfield,Kiribati,Line Islands,1.7627802,-1571942052,1,Yes,6000,0,Asphalt,1
+Johnston Atoll Airbase,U.S.,Johnston Atoll,16.7286219,-169.53339,1,Yes,9000,0,Asphalt,2
+Canton Island Airbase,Kiribati,Phoenix Islands,-2.769673,-171.702301,1,Yes,7900,0,Asphalt,2
+Palau Intl Airport,Palau,Caroline Islands,7.364302,134.5329127,3,No,7200,0,Asphalt/Concrete,1
+Nauru Intl Airport,Nauru,Nauru Island,-0.5446408,166.9175919,3,No,7054,0,Asphalt,1
+Cassidy Intl Airport,Kiribati,Line Islands,1.9856557,-157.3504973,3,No,6900,0,Asphalt,1
+Miyako Airport,Japan,Ryukyu Islands,24.7794387,125.2972976,3,No,6562,0,Asphalt/Concrete,1
+New Ishigaki Airport,Japan,Ryukyu Islands,24.3957634,124.2455748,3,No,6562,0,Asphalt/Concrete,1
+Amami Airport,Japan,Ryukyu Islands,28.4310693,129.7118767,3,No,6562,0,Asphalt/Concrete,1
+Tokunoshima Airport,Japan,Ryukyu Islands,27.8322678,128.8829156,3,No,6562,0,Asphalt/Concrete,1
+Kumejima Airport,Japan,Ryukyu Islands,26.3649991,126.7170602,3,No,6562,0,Asphalt/Concrete,1
+Chuuk International Airport,Micronesia,Caroline Islands,7.4622469,151.8433251,3,No,6006,0,Asphalt,1
+Pohnpei Intl Airport,Micronesia,Caroline Islands,6.9853231,158.2090962,3,No,6001,0,Asphalt,1
+Yap Intl Airport,Micronesia,Caroline Islands,9.4978375,138.0865812,3,No,6000,0,Asphalt,1
+Kosrae Intl Airport,Micronesia,Caroline Islands,5.3529742,162.9562626,3,No,5751,0,Asphalt,1
+Kinmen Airport,Taiwan,Kinmen Islands,24.42905,118.3596,3,No,9846,0,Asphalt,2
+Miyako Shimojishima Airport,Japan,Ryukyu Islands,24.8274754,125.1474108,3,No,9843,0,Asphalt,2
+Puerto Princesa Intl Airport,Philippines,Palawan Archipelago,9.7456564,118.7504322,3,No,8800,0,Asphalt/Concrete,2
+Tinian Intl Airport,U.S.,Mariana Islands,14.9992113,145.6248043,3,No,8600,0,Asphalt/Concrete,2
+Marshall Islands Intl Airport,Marshall Islands,Marshall Islands,7.0690279,171.2828766,3,No,8270,0,Asphalt,2
+Penghu Airport,Taiwan,Pescadore Islands,23.564109,119.628184,3,Yes,9843,0,Concrete,2
+Subi Reef Airbase,China,Spratly Islands,10.93270466,114.0770489,3,Yes,9800,0,Concrete,2
+Fiery Cross Reef Airbase,China,Spratly Islands,9.542635803,112.880172,3,Yes,9600,0,Concrete,2
+MCAS Futenma,U.S.,Ryukyu Islands,26.2760403,127.7488105,3,Yes,8990,0,Asphalt/Concrete,2
+Iwo Jima Airport,Japan,Bonin Islands,24.7850482,141.3251709,3,Yes,8964,0,Asphalt,2
+Mischief Reef Airbase,China,Spratly Islands,9.928158741,115.5086013,3,Yes,8900,0,Concrete,2
+Yongxing Island Airbase,China,Paracel Islands,16.82906817,112.3386331,3,Yes,8858,0,Asphalt/Concrete,2
+Natuna Island Airport,Indonesia,Riau Islands,3.9199561,108.3864367,3,Yes,8700,0,Asphalt,2
+Guam Intl Airport,U.S.,Mariana Islands,13.4852976,144.8008119,3,No,12015,10014,Asphalt/Concrete,3
+Naha Airport,Japan,Ryukyu Islands,26.2064033,127.6465422,3,No,9843,8858,Asphalt,3
+Saipan Intl Airport,U.S.,Mariana Islands,15.1197429,145.7282789,3,No,8700,7001,Asphalt,3
+Kadena Air Base,U.S.,Ryukyu Islands,26.3556897,127.7678754,3,Yes,12100,12100,Asphalt/Concrete,3
+Andersen AFB,U.S.,Mariana Islands,13.588225,144.9202077,3,Yes,10527,11200,Asphalt/Concrete,3
+Cagayan de Sulu Airfield,Philippines,Sulu Archipelago,7.0133518,118.4962498,2,No,4265,0,Macadam,0
+Jaluit Airfield,Marshall Islands,Marshall Islands,5.9092582,169.6372575,2,No,4000,0,Gravel,0
+Rongelap Airport,Marshall Islands,Marshall Islands,11.196236,166.8541375,2,No,3950,0,Asphalt,0
+Tabiteuea Island Airport,Kiribati,Gilbert Islands,-1.2237051,174.7761056,2,No,3365,0,Coral,0
+Agutaya Island Airfield,Philippines,Palawan Archipelago,11.15877364,120.9528798,2,No,3000,0,Grass,0
+Del Pilar Airport,Philippines,Palawan Archipelago,10.3352774,119.3545327,2,No,2800,0,Concrete,0
+Izenajima Auxiliary Airfield,Japan,Ryukyu Islands,26.9368127,127.9169831,2,No,2000,0,Concrete,0
+Swallow Reef Airbase,Malaysia,Spratly Islands,7.371221,113.842747,2,Yes,3800,0,Concrete,0
+Enewetak airstrip,Marshall Islands,Marshall Islands,11.339632,162.3239862,2,No,7700,0,Asphalt,1
+Bugsuk Airfield,Philippines,Palawan Archipelago,8.2296573,117.3306133,2,No,6940,0,Gravel,1
+Abemama Atoll airstrip,Kiribati,Gilbert Islands,0.4907407,173.8310608,2,No,5200,0,Coral,1
+Palmyra Airfield,U.S.,Line Islands,5.888778,-162.077419,2,No,5000,0,Asphalt,1
+Bataraza Airfield,Philippines,Palawan Archipelago,8.672534175,117.6189501,2,No,4900,0,Gravel,1
+Bikini Atoll Airfield,Marshall Islands,Marshall Islands,11.560389,165.5750142,2,No,4500,0,Asphalt,1
+Kili Airfield,Marshall Islands,Marshall Islands,5.6441733,169.1251659,2,No,4400,0,Coral,1
+Buchholz Army Airbase,Marshall Islands,Marshall Islands,8.720727,167.73138,2,Yes,6668,0,Asphalt,1
+Dongshadao Airport,Taiwan,Pratas Island,20.703647,116.7287127,2,Yes,5085,0,Concrete,1
+Dyess Army Airbase,Marshall Islands,Marshall Islands,9.4808858,167.4396228,2,Yes,4500,0,Asphalt,1
+Minami Torishima Airport,Japan,Bonin Islands,24.2874773,153.9758278,2,Yes,4498,0,Concrete,1
+Iejima Airport,Japan,Ryukyu Islands,26.7236199,127.7855238,2,No,4921,5000,Asphalt/Concrete,2
+Wake Island Airfield,U.S.,Wake Island,19.2811863,166.6447787,2,Yes,9844,0,Asphalt,2
+Henderson Firld,U.S.,Midway Island,28.2020857,-177.380372,2,Yes,7800,0,Asphalt,2
+Tarumpitao Point airstrip,Philippines,Palawan Archipelago,9.04443357,117.6330627,0,Yes,3300,0,Grass,0
+Sibutu Airbase,Philippines,Sulu Archipelago,4.8433126,119.4602771,0,Yes,2800,0,Grass,0
+Meck Island Airfield,Marshall Islands,Marshall Islands,8.9920171,167.7156849,0,Yes,2100,0,Grass,0
+Tarawa Intl Airport,Kiribati,Gilbert Islands,1.381568,173.146996,0,No,7000,0,Asphalt,0
+Mili Island airstrip,Marshall Islands,Marshall Islands,6.0867332,171.7339319,0,No,5000,0,Grass,0
+Aranuka Atoll airstrip,Kiribati,Gilbert Islands,0.1850773,173.6361413,0,No,4000,0,Coral,0
+Kuria Island airstrip,Kiribati,Gilbert Islands,0.2187598,173.4427576,0,No,4000,0,Coral,0
+Orote airstrip,U.S.,Mariana Islands,13.43799885,144.641538,0,No,4000,0,Grass,0
+Ailinglaplap Airok airstrip,Marshall Islands,Marshall Islands,7.2791667,168.8255556,0,No,3800,0,Grass,0
+Jeh airstrip,Marshall Islands,Marshall Islands,7.565,168.9616667,0,No,3800,0,Grass,0
+Apurawan airstrip,Philippines,Palawan Archipelago,9.5972015,118.3387734,0,No,3700,0,Grass,0
+Rizal airstrip,Philippines,Palawan Archipelago,9.012915914,117.6551375,0,No,3600,0,Grass,0
+Culion airstrip,Philippines,Palawan Archipelago,11.8555518,119.9381689,0,No,3500,0,Grass,0
+Bato airstrip,Philippines,Palawan Archipelago,10.7062615,119.4880715,0,No,3500,0,Grass,0
+Candaraman airstrip,Philippines,Palawan Archipelago,8.0758694,117.1074748,0,No,3500,0,Grass,0
+Nikunau Island airstrip,Kiribati,Gilbert Islands,-1.3143678,176.4106628,0,No,3400,0,Asphalt,0
+Woja airstrip,Marshall Islands,Marshall Islands,7.4532625,168.5524392,0,No,3400,0,Grass,0
+Mabag Airstrip,Philippines,Babuyan Islands,18.8844682,121.2572444,0,No,3350,0,Grass,0
+Wotho airstrip,Marshall Islands,Marshall Islands,10.194185,166.0127206,0,No,3300,0,Grass,0
+Teraina Island airstrip,Kiribati,Line Islands,4.6976043,-160.3941244,0,No,3133,0,Grass,0
+Maiana Atoll airstrip,Kiribati,Gilbert Islands,1.0035861,173.0311027,0,No,3100,0,Asphalt,0
+Nonouti Island airstrip,Kiribati,Gilbert Islands,-0.639646,174.4279519,0,No,3100,0,Coral,0
+Marakei Island airstrip,Kiribati,Gilbert Islands,2.0587048,173.2717377,0,No,3050,0,Coral,0
+Onotoa Island airstrip,Kiribati,Gilbert Islands,-1.7962526,175.5253428,0,No,3050,0,Coral,0
+Fais Airfield,Micronesia,Caroline Islands,9.76274726,140.5179478,0,No,3000,0,Asphalt,0
+Beru Island airstrip,Kiribati,Gilbert Islands,-1.3541781,176.0060979,0,No,3000,0,Coral,0
+Enejit airstip,Marshall Islands,Marshall Islands,6.0404,171.9846,0,No,3000,0,Coral,0
+Arorae Island airstrip,Kiribati,Gilbert Islands,-2.6162482,176.8021043,0,No,3000,0,Grass,0
+Makin Island airstrip,Kiribati,Gilbert Islands,3.3744814,172.9920869,0,No,3000,0,Grass,0
+Tamana Island airstrip,Kiribati,Gilbert Islands,-2.4860979,175.9678113,0,No,3000,0,Grass,0
+Ebon Atoll airstrip,Marshall Islands,Marshall Islands,4.5983968,168.7522599,0,No,3000,0,Grass,0
+Berong airstrip,Philippines,Palawan Archipelago,9.477103,118.2109413,0,No,3000,0,Grass,0
+Tagbita airstrip,Philippines,Palawan Archipelago,8.715243673,117.3530318,0,No,3000,0,Grass,0
+Elenak airstrip,Marshall Islands,Marshall Islands,9.3758113,166.8505239,0,No,2950,0,Coral,0
+Abaiang Atoll airstrip,Kiribati,Gilbert Islands,1.7977935,173.0430126,0,No,2900,0,Coral,0
+Tabiteuea South airstrip,Kiribati,Gilbert Islands,-1.4746645,175.0653319,0,No,2900,0,Coral,0
+Mejit airstrip,Marshall Islands,Marshall Islands,10.2833333,170.869,0,No,2900,0,Coral,0
+Namorik airstrip,Marshall Islands,Marshall Islands,5.633309,168.126129,0,No,2900,0,Coral,0
+Aur airstrip,Marshall Islands,Marshall Islands,8.301954,171.1607981,0,No,2800,0,Grass,0
+Maloelap airstrip,Marshall Islands,Marshall Islands,8.708333,171.233337,0,No,2800,0,Turf,0
+LARBECO airstrip,Philippines,Sulu Archipelago,6.636614,122.1237702,0,No,2750,0,Grass,0
+Sagpangan airstrip,Philippines,Palawan Archipelago,9.510170361,118.5543115,0,No,2650,0,Grass,0
+Fuga Island Airstrip,Philippines,Babuyan Islands,18.8663313,121.2843633,0,No,2600,0,Grass,0
+Majkin airstrip,Marshall Islands,Marshall Islands,8.1633777,168.1744379,0,No,2500,0,Grass,0
+Ujae airstrip,Marshall Islands,Marshall Islands,8.9605982,165.7300376,0,No,2500,0,Grass,0
+Cagayancillo airstrip,Philippines,Sulu Archipelago,9.5694623,121.1866397,0,No,2500,0,Grass,0
+Utrik airstrip,Marshall Islands,Marshall Islands,11.2226114,169.8544701,0,No,2400,0,Coral,0
+Tumajubong airstrip,Philippines,Sulu Archipelago,6.4802861,122.0384632,0,No,2400,0,Grass,0
+Ailuk airstrip,Marshall Islands,Marshall Islands,10.2167104,169.982944,0,No,2150,0,Grass,0
+Jabot airstrip,Marshall Islands,Marshall Islands,7.7497432,168.9778793,0,No,2000,0,Grass,0
+Lae Atoll airstrip,Marshall Islands,Marshall Islands,8.9213133,166.2635507,0,No,1950,0,Grass,0
+Isugod airstrip,Philippines,Palawan Archipelago,9.3365165,118.1343436,0,No,1800,0,Grass,0
+Pagan airstrip,U.S.,Mariana Islands,18.1231296,145.7634662,0,No,1500,0,Turf/gravel,0
+Houk Airfield,Micronesia,Caroline Islands,6.673637042,149.2975611,0,No,1350,0,Concrete,0
+Mortlock Islands Airfield,Micronesia,Caroline Islands,5.285199887,153.6556584,0,No,1350,0,Concrete,0
+Woleai airstrip,Micronesia,Caroline Islands,7.376033569,143.9075449,0,No,1200,0,Asphalt,0
+Onoun Airfield,Micronesia,Caroline Islands,8.591543876,149.6891474,0,No,1200,0,Asphalt,0
+Sapwuahfik Airfield,Micronesia,Caroline Islands,5.783729027,157.1671524,0,No,1200,0,Concrete,0
+Mwoakilloa Airfield,Micronesia,Caroline Islands,6.678974176,159.760735,0,No,1200,0,Concrete,0
+Pingelap Airfield,Micronesia,Caroline Islands,6.211130793,160.7046109,0,No,1200,0,Concrete,0
+Tabuaeran airstrip,Kiribati,Line Islands,3.8994589,-159.3896303,0,No,1100,0,Coral,0
+Butaritari Atoll airstrip,Kiribati,Gilbert Islands,3.0873368,172.812152,0,No,5700,0,Asphalt,1
+Likiep Atoll airstrip,Marshall Islands,Marshall Islands,9.8235617,169.3099241,0,No,5400,0,Grass,1
+Wotjie airstrip,Marshall Islands,Marshall Islands,9.463239,170.233565,0,No,4275,0,Grass,1
+Northwest Airfield,U.S.,Mariana Islands,13.62372672,144.8549211,0,No,8500,8500,Concrete,3
+North Airfield,U.S.,Mariana Islands,15.0720444,145.6383694,0,No,8000,8000,Coral,3
