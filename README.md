@@ -8,10 +8,6 @@ This project will automate collection of data on airfields in various regions of
 
 I consult with aerospace companies, investors, and other interested parties who need to understand business opportunities for new types of aircraft in Pacific Ocean regions.
 
-## Communication Protocols
-
-I am conducting this project solo, so their are no communication protocols. However, the GitHub repo for the project is dividided into three branches; Main, Database, and Model.
-
 ## Data Description
 
 The data required for this study comes from two principal sources: Airportdatabase.net and Wikipedia. Google Earth can also be used to visually inspect for missing variables.
