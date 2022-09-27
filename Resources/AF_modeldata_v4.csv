@@ -1,0 +1,390 @@
+﻿ID,name,Country,af_type,latitude,longitude,runway_L,runway_W,freq_count,airline_count,surface
+RCYU,Hualien Airport,Taiwan,medium airport,24.0230999,121.6179962,27049,371,7,2,3
+RODN,Kadena Air Base,United States,large airport,26.35560036,127.7679977,24200,500,11,0,3
+RCTP,Taiwan Taoyuan International Airport,Taiwan,large airport,25.07769966,121.2330017,22999,394,7,49,3
+PGUA,Andersen Air Force Base,United States,medium airport,13.58399963,144.9299927,21743,400,11,0,3
+RPLC,Diosdado Macapagal International Airport,Philippines,large airport,15.18599987,120.5599976,20998,345,7,7,3
+RCNN,Tainan Airport,Taiwan,medium airport,22.9503994,120.2060013,20014,296,6,0,3
+RPLL,Ninoy Aquino International Airport,Philippines,large airport,14.50860023,121.0199966,19669,345,10,44,3
+PHJR,Kalaeloa (John Rodgers Field) Airport,United States,medium airport,21.30739975,-158.0700073,18500,600,6,0,3
+PGUM,Antonio B. Won Pat International Airport,United States,large airport,13.48340034,144.7960052,18016,300,9,14,3
+NFFN,Nadi International Airport,Fiji,medium airport,-17.7553997,177.4429932,17746,300,10,15,3
+AYPY,Port Moresby Jacksons International Airport,Papua New Guinea,large airport,-9.443380356,147.2200012,15799,296,8,7,3
+RCAY,Gangshan Air Force Base,Taiwan,medium airport,22.78249931,120.2630005,15454,290,2,0,3
+PHTO,Hilo International Airport,United States,medium airport,19.72139931,-155.0480042,15400,300,8,6,3
+RCKU,Chiayi Airport,Taiwan,medium airport,23.46179962,120.3929977,15314,222,5,0,3
+NSTU,Pago Pago International Airport,United States,medium airport,-14.33100033,-170.7100067,13800,250,6,0,3
+NFTF,Fua'amotu International Airport,Tonga,medium airport,-21.24119949,-175.1499939,13746,342,7,6,3
+PHLI,Lihue Airport,United States,medium airport,21.97599983,-159.3390045,13000,300,7,12,3
+RCMQ,Taichung Ching Chuang Kang Airport,Taiwan,medium airport,24.26469994,120.6210022,12000,148,4,11,3
+PHOG,Kahului Airport,United States,medium airport,20.89859962,-156.4299927,11985,300,10,15,3
+RCPO,Hsinchu Air Base,Taiwan,medium airport,24.81800079,120.939003,11955,148,4,0,3
+NVVV,Port Vila Bauerfield Airport,Vanuatu,medium airport,-17.69930077,168.3200073,11840,253,7,10,3
+NTAA,Faa'a International Airport,France,medium airport,-17.55369949,-149.6069946,11360,148,6,11,3
+YSNF,Norfolk Island International Airport,Australia,medium airport,-29.04159927,167.9389954,11106,248,4,4,3
+NTTO,Hao Airport,France,medium airport,-18.07480049,-140.9459991,11089,148,2,0,3
+RCQS,Chihhang Air Base,Taiwan,medium airport,22.79310036,121.1819992,11055,147,4,0,3
+PHKO,Kona International At Keahole Airport,United States,medium airport,19.73880005,-156.0460052,11000,150,7,15,3
+RPVM,Mactan Cebu International Airport,Philippines,large airport,10.30749989,123.9789963,10827,148,11,16,3
+AYMH,Mount Hagen Kagamuga Airport,Papua New Guinea,medium airport,-5.826789856,144.2960052,10784,157,3,2,3
+NWWW,La Tontouta International Airport,France,medium airport,-22.01460075,166.2129974,10663,148,9,6,3
+RPMR,Tambler Airport,Philippines,medium airport,6.058000088,125.0960007,10587,148,5,0,3
+NCAI,Aitutaki Airport,New Zealand,small airport,-18.83090019,-159.7640076,10475,280,2,2,3
+RCKH,Kaohsiung International Airport,Taiwan,large airport,22.57710075,120.3499985,10335,197,6,13,3
+RCGM,Taoyuan Air Base,Taiwan,medium airport,25.05660057,121.2442627,10044,0,1,0,3
+RORE,Ie Jima Airport,Japan,medium airport,26.72200012,127.7850037,9881,242,0,0,3
+RCBS,Kinmen Airport,Taiwan,large airport,24.42790031,118.3590012,9865,148,4,4,3
+NSFA,Faleolo International Airport,Samoa,medium airport,-13.82999992,-172.0079956,9843,148,11,7,3
+RCQC,Makung Airport,Taiwan,medium airport,23.56870079,119.6279984,9843,148,7,4,3
+TW-0001,Penghu Airport,Taiwan,closed,23.51799965,119.5830002,9843,0,0,0,3
+PWAK,Wake Island Airfield,United States,medium airport,19.28210068,166.6360016,9843,150,3,0,3
+RORS,Shimojishima Airport,Japan,medium airport,24.82670021,125.1449966,9842,200,5,0,3
+RPMD,Francisco Bangoy International Airport,Philippines,large airport,7.125520229,125.6460037,9842,148,6,6,3
+ROAH,Naha Airport,Japan,large airport,26.19580078,127.6460037,9840,150,7,21,3
+AYGA,Goroka Airport,Papua New Guinea,medium airport,-6.081689835,145.3919983,9383,157,2,2,3
+NCMR,Mitiaro Island Airport,New Zealand,small airport,-19.84250069,-157.7030029,9180,0,0,0,2
+RPLI,Laoag International Airport,Philippines,medium airport,18.17810059,120.5319977,9120,148,4,4,3
+PHDH,Dillingham Airfield,United States,medium airport,21.5795002,-158.1970062,9007,75,3,0,3
+RPLB,Subic Bay International Airport,Philippines,medium airport,14.79440022,120.2710037,9003,148,8,0,3
+ROTM,Futenma Marine Corps Air Station,United States,medium airport,26.27429962,127.7559967,9000,150,7,0,3
+PJON,Johnston Atoll Airport,United States,medium airport,16.72859955,-169.5339966,9000,0,0,0,3
+RJAW,Iwo Jima Airport,Japan,medium airport,24.7840004,141.322998,8700,200,5,0,3
+PGSN,Francisco C. Ada Saipan International Airport,United States,medium airport,15.11900043,145.7290039,8700,200,6,8,3
+YHID,Horn Island Airport,Australia,medium airport,-10.58640003,142.2899933,8609,173,3,0,3
+PGWT,Tinian International Airport,United States,medium airport,14.99919987,145.6190033,8600,150,3,0,3
+RPMZ,Zamboanga International Airport,Philippines,medium airport,6.922420025,122.0599976,8560,144,4,3,3
+RCSS,Taipei Songshan Airport,Taiwan,medium airport,25.06940079,121.552002,8547,197,13,14,3
+RPVP,Puerto Princesa Airport,Philippines,medium airport,9.742119789,118.7590027,8530,148,5,4,3
+RPUF,Basa Air Base,Philippines,small airport,14.98649979,120.4929962,8433,140,2,0,3
+WION,Ranai Airport,Indonesia,medium airport,3.908710003,108.3880005,8410,105,2,0,3
+RPML,Cagayan De Oro Airport,Philippines,medium airport,8.41561985,124.6110001,8050,118,3,4,3
+RCSQ,Pingtung North Airport,Taiwan,medium airport,22.70019913,120.4820023,8012,148,2,0,3
+AYNZ,Lae Nadzab Airport,Papua New Guinea,medium airport,-6.569829941,146.7259979,8004,98,6,2,3
+RCFN,Taitung Airport,Taiwan,medium airport,22.75499916,121.1019974,7999,148,3,2,3
+NTTB,Bora Bora Airport,France,medium airport,-16.44440079,-151.7510071,7921,212,3,0,3
+RPVG,Guiuan Airport,Philippines,small airport,11.03549957,125.7419968,7919,148,0,0,3
+PKMJ,Marshall Islands International Airport,Marshall Islands,medium airport,7.064760208,171.2720032,7897,150,3,5,3
+RCDC,Pingtung South Airport,Taiwan,medium airport,22.67239952,120.461998,7828,148,3,0,3
+UM-0001,Midway Eastern Island Airfield,United States,closed,28.20939636,-177.3309021,7800,0,0,0,3
+PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,United States,medium airport,21.45050049,-157.7680054,7771,200,9,0,3
+RPLS,Sangley Point Air Base,Philippines,small airport,14.49540043,120.9039993,7769,150,1,0,3
+PKMA,Eniwetok Airport,Marshall Islands,small airport,11.34070015,162.3280029,7700,148,1,0,3
+NIUE,Niue International Airport,New Zealand,medium airport,-19.07903099,-169.9255981,7660,148,3,0,3
+NCRG,Rarotonga International Airport,New Zealand,medium airport,-21.20269966,-159.8059998,7638,150,5,10,3
+PHMK,Molokai Airport,United States,medium airport,21.1529007,-157.095993,7612,200,7,8,3
+NCPY,Tongareva Airport,New Zealand,small airport,-9.014369965,-158.0324097,7530,0,0,0,2
+RPLP,Legazpi City International Airport,Philippines,medium airport,13.15750027,123.7350006,7480,118,4,4,3
+AGGH,Honiara International Airport,Solomon Islands,medium airport,-9.42800045,160.0549927,7218,148,4,10,3
+PTRO,Babelthuap Airport,Palau,medium airport,7.367650032,134.5440063,7200,150,2,10,3
+RPVK,Kalibo International Airport,Philippines,medium airport,11.67940044,122.3759995,7175,148,3,5,3
+ANYN,Nauru International Airport,Nauru,medium airport,-0.547457993,166.9190063,7054,148,3,0,3
+RPVA,Daniel Z. Romualdez Airport,Philippines,medium airport,11.2276001,125.0279999,7014,148,3,4,3
+ANG,Angaur Airstrip,Palau,small airport,6.906829357,134.1453857,7000,150,0,0,1
+PLCH,Cassidy International Airport,Kiribati,medium airport,1.98616004,-157.3500061,6900,98,3,2,3
+NTTG,Rangiroa Airport,France,medium airport,-14.95429993,-147.6609955,6890,98,8,0,3
+NLWW,Hihifo Airport,France,medium airport,-13.23830032,-176.1990051,6890,148,5,0,3
+RPUY,Cauayan Airport,Philippines,medium airport,16.92989922,121.7529984,6890,118,2,0,3
+RPVI,Iloilo International Airport,Philippines,medium airport,10.83301735,122.4933548,6890,118,3,4,3
+RPMY,Malaybalay Airport,Philippines,small airport,8.141659737,125.1169968,6890,0,0,0,3
+PKWA,Bucholz Army Air Field,Marshall Islands,medium airport,8.72012043,167.7319946,6668,198,5,5,3
+NGTA,Bonriki International Airport,Kiribati,medium airport,1.381639957,173.1470032,6598,135,5,0,3
+RPVB,Bacolod-Silay City International Airport,Philippines,medium airport,10.77639961,123.0149994,6568,0,2,4,3
+NTGJ,Totegegie Airport,France,medium airport,-23.07990074,-134.8899994,6562,98,2,0,3
+ROKJ,Kumejima Airport,Japan,medium airport,26.3635006,126.7139969,6562,148,3,0,3
+RJKN,Tokunoshima Airport,Japan,medium airport,27.83639908,128.8809967,6561,150,2,0,3
+RJKA,Amami Airport,Japan,medium airport,28.43059921,129.7129974,6560,150,5,2,3
+ROMY,Miyako Airport,Japan,medium airport,24.78280067,125.2949982,6560,150,4,3,3
+NVSS,Santo Pekoa International Airport,Vanuatu,medium airport,-15.50500011,167.2200012,6523,98,3,2,3
+RPUT,Tuguegarao Airport,Philippines,medium airport,17.64336777,121.7331467,6455,98,2,3,3
+RPME,Bancasi Airport,Philippines,medium airport,8.951319695,125.4779968,6450,150,2,2,3
+RPMG,Dipolog Airport,Philippines,medium airport,8.60198307,123.3418732,6273,98,2,2,3
+RPMC,Awang Airport,Philippines,medium airport,7.165239811,124.2099991,6234,98,3,3,3
+PCIS,Canton Airport,Kiribati,medium airport,-2.76812005,-171.7100067,6230,140,0,0,3
+RPVR,Roxas Airport,Philippines,medium airport,11.59770012,122.7519989,6201,148,2,2,3
+AYMO,Momote Airport,Papua New Guinea,medium airport,-2.061889887,147.423996,6136,148,3,0,2
+RPVD,Sibulan Airport,Philippines,medium airport,9.333709717,123.3000031,6136,118,2,2,3
+NFNA,Nausori International Airport,Fiji,medium airport,-18.04330063,178.5590057,6129,100,7,0,3
+RPVO,Ormoc Airport,Philippines,medium airport,11.05799961,124.5650024,6120,118,0,0,3
+RPUH,San Jose Airport,Philippines,medium airport,12.36149979,121.0469971,6024,98,2,4,3
+PTKK,Chuuk International Airport,Micronesia,medium airport,7.461870193,151.8430023,6006,150,3,3,3
+PHBK,Barking Sands Airport,United States,medium airport,22.02280045,-159.7850037,6006,146,6,0,3
+PTPN,Pohnpei International Airport,Micronesia,medium airport,6.985099792,158.2089996,6001,150,3,3,3
+PTYA,Yap International Airport,Micronesia,medium airport,9.49890995,138.0829926,6000,150,3,3,3
+C23,Peleliu Airport,Palau,small airport,7,134.2330017,6000,40,0,0,1
+PGRO,Rota International Airport,United States,medium airport,14.17430019,145.2429962,6000,150,4,3,3
+RODE,Ie Shima Auxiliary Air Base,Japan,small airport,26.7257576,127.7649002,5980,330,2,0,3
+RPUB,Loakan Airport,Philippines,medium airport,16.37509918,120.6200027,5912,115,1,0,3
+RPVT,Tagbilaran Airport,Philippines,medium airport,9.664079666,123.8529968,5837,98,1,4,3
+AYVN,Vanimo Airport,Papua New Guinea,medium airport,-2.697170019,141.302002,5775,85,2,0,3
+AYMR,Moro Airport,Papua New Guinea,small airport,-6.363329887,143.2380066,5774,0,1,2,2
+PTSA,Kosrae International Airport,Micronesia,medium airport,5.356979847,162.9579926,5750,150,3,3,3
+RPMO,Labo Airport,Philippines,medium airport,8.178509712,123.8420029,5720,95,1,3,3
+AYTK,Tokua Airport,Papua New Guinea,medium airport,-4.340459824,152.3800049,5643,92,5,2,3
+PG-JAQ,Jacquinot Bay Airport,Papua New Guinea,small airport,-5.652500153,151.5070038,5627,0,0,0,0
+PHHI,Wheeler Army Airfield,United States,medium airport,21.48349953,-158.0399933,5604,295,13,0,3
+RPMS,Surigao Airport,Philippines,medium airport,9.755838394,125.4809494,5603,98,2,3,3
+NFTV,Vava'u International Airport,Tonga,medium airport,-18.58530045,-173.9620056,5593,98,3,0,3
+AYKV,Kavieng Airport,Papua New Guinea,medium airport,-2.579400063,150.8079987,5592,98,3,0,3
+NTMD,Nuku Hiva Airport,France,medium airport,-8.795599937,-140.2290039,5578,98,2,0,3
+RPMB,General Santos International Airport,Philippines,medium airport,6.106440067,125.2350006,5577,98,0,3,3
+RCKW,Hengchun Airport,Taiwan,medium airport,22.04109955,120.7300034,5577,98,4,0,3
+AYGN,Gurney Airport,Papua New Guinea,medium airport,-10.3114996,150.3339996,5546,98,3,2,3
+RPMP,Pagadian Airport,Philippines,medium airport,7.830731392,123.4611816,5512,98,2,0,3
+AYGR,Girua Airport,Papua New Guinea,medium airport,-8.80453968,148.3090057,5485,98,1,2,3
+AGGE,Ballalae Airport,Solomon Islands,small airport,-6.990745068,155.8866577,5413,0,0,0,1
+AYKA,Losuia Airport,Papua New Guinea,small airport,-8.505820274,151.0809937,5348,0,0,0,1
+RPMQ,Mati National Airport,Philippines,medium airport,6.949369907,126.2730026,5330,105,0,0,3
+AYWK,Wewak International Airport,Papua New Guinea,medium airport,-3.583830118,143.6690063,5234,98,5,2,3
+AYHK,Kimbe Airport,Papua New Guinea,medium airport,-5.462170124,150.4049988,5212,98,2,2,3
+FIN,Finschhafen Airport,Papua New Guinea,small airport,-6.621749878,147.8540497,5200,0,0,0,3
+AYTA,Tari Airport,Papua New Guinea,small airport,-5.84499979,142.947998,5197,0,0,0,2
+PHMU,Waimea Kohala Airport,United States,medium airport,20.00130081,-155.6679993,5197,100,4,0,3
+RCFG,Matsu Nangan Airport,Taiwan,medium airport,26.15979958,119.9580002,5180,98,2,0,3
+AYMD,Madang Airport,Papua New Guinea,medium airport,-5.207079887,145.7890015,5174,105,5,2,3
+AYBK,Buka Airport,Papua New Guinea,medium airport,-5.422319889,154.6730042,5125,98,2,0,3
+RPUV,Virac Airport,Philippines,medium airport,13.5763998,124.2060013,5118,98,2,2,3
+RPMN,Sanga Sanga Airport,Philippines,medium airport,5.046989918,119.7429962,5100,98,0,0,3
+TW-0002,Pratas Island,Taiwan,small airport,20.70660019,116.7210007,5085,0,0,0,3
+AYWD,Wapenamanda Airport,Papua New Guinea,medium airport,-5.643300056,143.8950043,5052,75,0,0,3
+NGFU,Funafuti International Airport,Tuvalu,medium airport,-8.524999619,179.1959991,5040,0,1,0,3
+PHNY,Lanai Airport,United States,medium airport,20.78560066,-156.951004,5001,150,6,5,3
+MH-UIT,Jaluit Airport,Marshall Islands,small airport,5.909239769,169.6369934,5000,0,0,0,1
+RPLO,Cuyo Airport,Philippines,small airport,10.85809994,121.0690002,5000,0,0,0,1
+PLPA,Palmyra (Cooper) Airport,United States,small airport,5.888748169,-162.0778656,5000,0,0,0,3
+RPUL,Fernando Air Base,Philippines,small airport,13.95499992,121.125,4953,148,4,0,3
+NTGA,Anaa Airport,France,medium airport,-17.3526001,-145.5099945,4921,60,2,0,3
+NTTH,Huahine-Fare Airport,France,medium airport,-16.68720055,-151.0220032,4921,66,5,0,3
+NTAT,Tubuai Airport,France,medium airport,-23.36540031,-149.5240021,4921,75,2,0,3
+RORK,Kitadaito Airport,Japan,medium airport,25.94470024,131.3269958,4921,148,2,0,3
+ROMD,Minami Daito Airport,Japan,medium airport,25.8465004,131.2630005,4921,148,3,0,3
+RORT,Tarama Airport,Japan,medium airport,24.65390015,124.6750031,4921,148,2,0,3
+NCMK,Mauke Airport,New Zealand,small airport,-20.13610077,-157.3450012,4921,0,0,0,2
+RPVJ,Moises R. Espinosa Airport,Philippines,medium airport,12.36940002,123.6289978,4921,98,2,3,3
+NTGM,Makemo Airport,France,medium airport,-16.58390045,-143.6580048,4920,98,2,0,3
+ROIG,Ishigaki Airport,Japan,medium airport,24.34449959,124.1869965,4920,150,2,2,3
+ROYN,Yonaguni Airport,Japan,medium airport,24.46689987,122.9779968,4920,150,2,0,3
+RPVC,Calbayog Airport,Philippines,medium airport,12.07269955,124.5449982,4843,98,0,4,3
+NFNR,Rotuma Airport,Fiji,small airport,-12.48250008,177.0709991,4806,0,0,0,3
+RPUW,Marinduque Airport,Philippines,medium airport,13.36100006,121.8259964,4785,95,1,0,3
+RPMW,Tandag Airport,Philippines,medium airport,9.072110176,126.1709976,4765,98,2,0,3
+NTAR,Rurutu Airport,France,medium airport,-22.4340992,-151.3609924,4757,59,2,0,3
+RPUN,Naga Airport,Philippines,medium airport,13.5848999,123.2699966,4599,98,3,3,3
+NTTR,Raiatea Airport,France,medium airport,-16.72290039,-151.4660034,4593,98,3,0,3
+WAMN,Melangguane Airport,Indonesia,small airport,4.006939888,126.6729965,4593,0,1,0,3
+AYDU,Daru Airport,Papua New Guinea,medium airport,-9.086759567,143.2079926,4593,98,2,0,3
+RPMI,Iligan Airport,Philippines,medium airport,8.130490303,124.2149963,4593,60,1,0,3
+AGGM,Munda Airport,Solomon Islands,medium airport,-8.327969551,157.2630005,4593,98,2,0,3
+NTAV,Raivavae Airport,France,small airport,-23.8852005,-147.6620026,4592,100,1,0,3
+PG-OPU,Balimo Airport,Papua New Guinea,medium airport,-8.050000191,142.9329987,4560,0,0,0,2
+RPVU,Romblon Airport,Philippines,medium airport,12.31099987,122.0849991,4560,98,1,2,3
+RJAM,Minami Torishima Airport,Japan,small airport,24.28969955,153.9790039,4500,145,3,0,3
+PKRO,Dyess Army Air Field,Marshall Islands,small airport,9.396889687,167.470993,4499,150,5,0,3
+LAC,Swallow Reef Airstrip,Malaysia,small airport,7.37157011,113.8440018,4485,0,0,0,3
+RPMM,Malabang Airport,Philippines,small airport,7.617219925,124.0589981,4462,0,0,0,3
+MH-BII,Enyu Airfield,Marshall Islands,small airport,11.52250004,165.5650024,4460,0,0,0,3
+RJKB,Okierabu Airport,Japan,medium airport,27.42550087,128.701004,4430,147,4,0,3
+RPVF,Catarman National Airport,Philippines,medium airport,12.5024004,124.6360016,4429,98,1,4,3
+AYMN,Mendi Airport,Papua New Guinea,medium airport,-6.147739887,143.6569977,4411,98,0,0,3
+Q51,Kili Airport,Marshall Islands,small airport,5.644515038,169.1195068,4400,100,0,0,1
+RPMA,Allah Valley Airport,Philippines,medium airport,6.366819859,124.7509995,4396,59,0,0,3
+AGGK,Ngorangora Airport,Solomon Islands,small airport,-10.44970036,161.897995,4377,0,0,0,1
+BUL,Bulolo Airport,Papua New Guinea,small airport,-7.2211833,146.6512451,4373,0,0,0,2
+RORY,Yoron Airport,Japan,medium airport,27.04400063,128.4019928,4340,100,2,0,3
+RJKI,Kikai Airport,Japan,medium airport,28.32130051,129.9279938,4307,98,2,0,3
+MH-WTE,Wotje Atoll Airport,Marshall Islands,small airport,9.458333015,170.2386169,4275,0,0,0,0
+NTGU,Arutua Airport,France,medium airport,-15.2482996,-146.6170044,4268,98,1,0,3
+RPMU,Cagayan de Sulu Airport,Philippines,small airport,7.013999939,118.4960022,4265,0,0,0,2
+RPUM,Mamburao Airport,Philippines,medium airport,13.20810032,120.6050034,4265,98,1,0,3
+RP13,Nonoc Airport,Philippines,small airport,9.809260368,125.5930023,4265,125,0,0,3
+NTGS,Marutea Airport,France,small airport,-21.4821949,-135.6370544,4250,0,0,0,3
+AYTB,Tabubil Airport,Papua New Guinea,small airport,-5.278610229,141.2259979,4232,0,1,2,2
+RPNS,Siargao Airport,Philippines,small airport,9.859100342,126.0139999,4167,98,0,0,3
+NTKK,Aratika Nord Airport,France,small airport,-15.48530006,-145.4700012,4150,75,0,0,3
+RPMJ,Jolo Airport,Philippines,medium airport,6.05366993,121.0110016,4144,98,2,2,3
+RPLU,Lubang Airport,Philippines,medium airport,13.85540009,120.1050034,4135,100,1,0,3
+NWWM,NoumÃ©a Magenta Airport,France,medium airport,-22.25830078,166.4730072,4101,98,7,2,3
+RPUO,Basco Airport,Philippines,medium airport,20.45129967,121.9800034,4101,98,3,0,3
+NGTB,Abemama Atoll Airport,Kiribati,small airport,0.490833014,173.8289948,4081,0,1,0,1
+NTHE,Ahe Airport,France,medium airport,-14.42809963,-146.2570038,4068,80,1,0,3
+NVVW,Tanna Airport,Vanuatu,medium airport,-19.45509911,169.223999,4035,98,3,0,3
+NFTP,Kuini Lavenia Airport,Tonga,small airport,-15.97733784,-173.7910309,4000,0,0,0,2
+NTMN,Hiva Oa-Atuona Airport,France,medium airport,-9.768790245,-139.0110016,3986,75,4,0,3
+MH-RNP,Rongelap Island Airport,Marshall Islands,small airport,11.15719986,166.8869934,3950,0,0,0,3
+NCAT,Enua Airport,New Zealand,small airport,-19.96780014,-158.1190033,3947,0,1,0,2
+RPMH,Camiguin Airport,Philippines,medium airport,9.253520012,124.7070007,3945,98,0,0,3
+NTGH,Hikueru Atoll Airport,France,small airport,-17.54470062,-142.6139984,3937,0,0,0,3
+NTGV,Mataiva Airport,France,medium airport,-14.86810017,-148.7169952,3937,98,1,0,3
+NTGO,Tatakoto Airport,France,small airport,-17.3553009,-138.4450073,3937,0,0,0,3
+NTGC,Tikehau Airport,France,medium airport,-15.1196003,-148.2310028,3937,98,1,0,3
+NCMH,Manihiki Island Airport,New Zealand,small airport,-10.3767004,-161.0019989,3937,0,0,0,1
+AYMS,Misima Island Airport,Papua New Guinea,small airport,-10.6892004,152.8379974,3937,0,0,0,0
+PG-IIS,Nissan Island Airport,Papua New Guinea,small airport,-4.499720097,154.2259979,3937,0,0,0,0
+RPUZ,Bagabag Airport,Philippines,small airport,16.61919975,121.2519989,3937,95,2,0,3
+RPMF,Bislig Airport,Philippines,medium airport,8.195949554,126.3219986,3937,98,0,0,3
+RPUR,Dr.Juan C. Angara Airport,Philippines,medium airport,15.72980022,121.5,3937,98,0,0,3
+RPVS,Evelio Javier Airport,Philippines,medium airport,10.76599979,121.9329987,3937,98,1,0,2
+RP17,Malita Airport,Philippines,small airport,6.402279854,125.6190033,3937,98,0,0,3
+RP15,Pasar Airport,Philippines,small airport,10.91209984,124.4369965,3937,49,0,0,3
+RPLA,Pinamalayan Airport,Philippines,small airport,12.98579979,121.4260025,3937,98,0,0,3
+RPUS,San Fernando Airport,Philippines,medium airport,16.59560013,120.3030014,3937,98,3,0,3
+NFTL,Lifuka Island Airport,Tonga,medium airport,-19.77700043,-174.3410034,3937,98,3,0,3
+NFTO,Mata'aho Airport,Tonga,small airport,-15.57079983,-175.6329956,3937,0,0,0,2
+NVSZ,North West Santo Airport,Vanuatu,small airport,-14.88169956,166.5579987,3937,0,0,0,1
+NTGB,Fangatau Airport,France,medium airport,-15.81989956,-140.8869934,3936,50,1,0,3
+RPVW,Borongan Airport,Philippines,small airport,11.67430019,125.4789963,3935,95,0,0,3
+WIOM,Tarempa Airport,Indonesia,small airport,3.348119974,106.2580032,3905,98,3,0,3
+NTKF,Faaite Airport,France,small airport,-16.68670082,-145.3289948,3890,75,0,0,3
+RPUQ,Vigan Airport,Philippines,small airport,17.55529976,120.3560028,3890,90,1,0,3
+NTGF,Fakarava Airport,France,medium airport,-16.05410004,-145.6569977,3871,75,2,0,3
+NTTM,Moorea Airport,France,medium airport,-17.48999977,-149.7619934,3871,66,4,0,3
+NTGQ,Pukarua Airport,France,small airport,-18.29560089,-137.0169983,3871,0,0,0,3
+RCLY,Lanyu Airport,Taiwan,medium airport,22.02700043,121.5350037,3852,79,2,0,3
+MH-JEJ,Jeh Airport,Marshall Islands,small airport,7.565350056,168.9620056,3800,0,0,0,1
+PM64,Kure Airport,United States,closed,28.38920021,-178.2969971,3800,100,0,0,2
+PHUP,Upolu Airport,United States,medium airport,20.26530075,-155.8600006,3800,75,2,0,3
+RPUD,Daet Airport,Philippines,medium airport,14.12919998,122.9800034,3773,98,1,0,3
+RCMT,Matsu Beigan Airport,Taiwan,medium airport,26.2241993,120.0029984,3773,98,6,0,3
+PHSF,Bradshaw Army Airfield,United States,medium airport,19.76009941,-155.5540009,3695,90,9,0,3
+AYKI,Kiunga Airport,Papua New Guinea,small airport,-6.125710011,141.2819977,3691,0,1,2,2
+RPSM,Maasin Airport,Philippines,small airport,10.18729973,124.7819977,3642,98,0,0,3
+NWWK,Koumac Airport,France,medium airport,-20.54630089,164.2559967,3616,85,2,2,3
+NWWL,Lifou Airport,France,medium airport,-20.77479935,167.2400055,3609,98,5,2,3
+NWWV,OuvÃ©a Airport,France,medium airport,-20.6406002,166.572998,3609,98,3,2,3
+NWWU,Touho Airport,France,medium airport,-20.79000092,165.2590027,3609,98,3,2,3
+NLWF,Pointe Vele Airport,France,medium airport,-14.31140041,-178.0659943,3609,0,1,0,3
+AGGN,Nusatupe Airport,Solomon Islands,small airport,-8.097780228,156.8639984,3609,0,0,0,3
+NWWE,ÃŽle des Pins Airport,France,medium airport,-22.58889961,167.4559937,3608,76,5,2,3
+PHHN,Hana Airport,United States,medium airport,20.79560089,-156.0140076,3606,100,5,0,3
+WAMH,Naha Airport,Indonesia,medium airport,3.683209896,125.5279999,3597,98,2,0,3
+HI01,Princeville Airport,United States,small airport,22.20919991,-159.4459991,3560,60,3,0,3
+NTGK,Kaukura Airport,France,medium airport,-15.66329956,-146.8849945,3543,66,1,0,3
+CGC,Cape Gloucester Airport,Papua New Guinea,small airport,-5.458965302,148.4324188,3540,0,0,0,3
+NFNL,Labasa Airport,Fiji,medium airport,-16.4666996,179.3399963,3521,98,2,0,3
+NGTU,Butaritari Atoll Airport,Kiribati,small airport,3.085829973,172.8110046,3500,0,0,0,3
+MH-MAV,Maloelap Island Airport,Marshall Islands,small airport,8.704440117,171.2299957,3500,0,0,0,0
+NTKR,Takaroa Airport,France,medium airport,-14.45580006,-145.0249939,3452,66,1,0,3
+PG-KDR,Kandrian Airport,Papua New Guinea,small airport,-6.265900135,149.5581055,3444,0,0,0,1
+RPUG,Lingayen Airport,Philippines,small airport,16.03479958,120.2409973,3422,98,0,0,3
+NTGW,Nukutavake Airport,France,small airport,-19.28499985,-138.7720032,3379,0,0,0,3
+NGTE,Tabiteuea North Airport,Kiribati,medium airport,-1.224470019,174.776001,3365,103,1,0,2
+AYCH,Chimbu Airport,Papua New Guinea,medium airport,-6.024290085,144.970993,3330,89,0,0,3
+NFNS,Savusavu Airport,Fiji,small airport,-16.80279922,179.3410034,3300,0,0,0,3
+RPVV,Francisco B. Reyes Airport,Philippines,medium airport,12.12150002,120.0999985,3300,98,0,4,3
+YKUB,Kubin Airport,Australia,small airport,-10.22500038,142.2180023,3281,60,2,0,2
+NFNM,Matei Airport,Fiji,small airport,-16.69059944,-179.8769989,3281,0,1,0,3
+NWWD,KonÃ© Airport,France,medium airport,-21.05430031,164.8370056,3281,66,2,2,3
+NWWR,MarÃ© Airport,France,medium airport,-21.4817009,168.0379944,3281,82,3,2,3
+RP12,Pagbilao Grande Island Airport,Philippines,small airport,13.90019989,121.7440033,3281,53,0,0,3
+AGGO,Mono Airport,Solomon Islands,small airport,-7.416940212,155.5650024,3281,0,0,0,0
+NVSE,Sangafa Airport,Vanuatu,small airport,-17.09029961,168.3430023,3281,0,0,0,1
+PH-ENI,El Nido Airport,Philippines,small airport,11.20199966,119.4169998,3280,0,0,0,3
+RPVH,Hilongos Airport,Philippines,small airport,10.38000011,124.7429962,3280,0,0,0,1
+RPLN,Palanan Municipal Airport,Philippines,small airport,17.0656662,122.4276733,3280,0,0,0,2
+NCMG,Mangaia Island Airport,New Zealand,small airport,-21.89598656,-157.906662,3274,0,0,0,2
+RCDI,Longtan Air Base,Taiwan,medium airport,24.85510063,121.237999,3260,100,2,0,3
+RCGI,Lyudao Airport,Taiwan,small airport,22.6739006,121.4660034,3255,75,3,0,3
+NWWA,Tiga Airport,France,medium airport,-21.09609985,167.8040009,3222,0,0,2,3
+NSFQ,Fitiuta Airport,United States,medium airport,-14.21720028,-169.4250031,3190,75,1,0,3
+RPMV,Ipil Airport,Philippines,small airport,7.785560131,122.6019974,3150,0,0,0,3
+NTTP,Maupiti Airport,France,medium airport,-16.42650032,-152.2440033,3135,75,3,0,3
+NWWX,Canala Airport,France,small airport,-21.52020073,165.9720001,3135,60,0,0,3
+NTUV,Vahitahi Airport,France,small airport,-18.78000069,-138.8529968,3117,0,0,0,3
+NGBR,Beru Airport,Kiribati,small airport,-1.354719996,176.0070038,3117,0,0,0,1
+RPVE,Godofredo P. Ramos Airport,Philippines,medium airport,11.92450047,121.9540024,3117,98,3,4,3
+NVSP,Norsup Airport,Vanuatu,small airport,-16.07970047,167.401001,3117,0,0,0,1
+NGTR,Arorae Island Airport,Kiribati,small airport,-2.616110086,176.8029938,3100,0,0,0,1
+AGGA,Auki Airport,Solomon Islands,small airport,-8.702569962,160.6820068,3100,0,0,0,1
+NVVB,Aniwa Airport,Vanuatu,small airport,-19.23999977,169.6049957,3084,0,0,0,1
+NTGI,Manihi Airport,France,medium airport,-14.4368,-146.0700073,3051,98,2,0,3
+NTGP,Puka Puka Airport,France,medium airport,-14.80949974,-138.8130035,3051,49,0,0,3
+RCWA,Wang-an Airport,Taiwan,small airport,23.36737251,119.5027771,3051,76,1,0,3
+NVVI,Ipota Airport,Vanuatu,small airport,-18.85638809,169.2833405,3051,0,0,0,1
+NGMK,Marakei Airport,Kiribati,small airport,2.058609962,173.2709961,3050,0,0,0,2
+AYKM,Kerema Airport,Papua New Guinea,medium airport,-7.963610172,145.7709961,3044,60,2,0,3
+NTGT,Takapoto Airport,France,medium airport,-14.70950031,-145.2460022,3018,65,2,0,3
+PG-TFI,Tufi Airport,Papua New Guinea,small airport,-9.075954437,149.3198395,3018,0,0,0,1
+NTGE,Reao Airport,France,medium airport,-18.46590042,-136.4400024,3008,59,1,0,3
+AGGS,Sege Airport,Solomon Islands,small airport,-8.578889847,157.8760071,3002,0,0,0,1
+NFKD,Vunisea Airport,Fiji,small airport,-19.05809975,178.1569977,3000,0,0,0,3
+NGNU,Nikunau Airport,Kiribati,small airport,-1.314440012,176.4100037,3000,0,0,0,1
+NGON,Onotoa Airport,Kiribati,small airport,-1.796110034,175.526001,3000,0,0,0,2
+NGTM,Tamana Island Airport,Kiribati,small airport,-2.485830069,175.9700012,3000,0,0,0,0
+MH-MJB,Mejit Atoll Airport,Marshall Islands,small airport,10.2833004,170.8690033,3000,0,0,0,1
+FM-ULI,Falalop Island Airport,Micronesia,small airport,10.01980019,139.7899933,3000,0,0,0,3
+PHHF,French Frigate Shoals Airport,United States,small airport,23.86940002,-166.2850037,3000,200,0,0,2
+PHJH,Kapalua Airport,United States,medium airport,20.96290016,-156.6730042,3000,100,3,5,3
+AGGL,Santa Cruz/Graciosa Bay/Luova Airport,Solomon Islands,small airport,-10.72029972,165.7949982,2999,0,0,0,1
+RPUI,Iba Airport,Philippines,small airport,15.32475567,119.9694977,2970,99,1,0,3
+NGUK,Buariki Airport,Kiribati,small airport,0.185277998,173.6369934,2960,0,0,0,1
+NTGN,Napuka Island Airport,France,small airport,-14.17679977,-141.2669983,2953,0,1,0,3
+PG-VMU,Baimuru Airport,Papua New Guinea,medium airport,-7.496860027,144.8199005,2953,0,0,0,1
+RPUX,Plaridel Airport,Philippines,small airport,14.89309978,120.8519974,2953,0,2,0,3
+NVSA,Mota Lava Airport,Vanuatu,small airport,-13.66600037,167.7120056,2953,0,0,0,1
+NFNO,Koro Island Airport,Fiji,small airport,-17.3458004,179.4219971,2952,0,0,0,1
+NTGY,Tureia Airport,France,small airport,-20.78969955,-138.5700073,2949,60,0,0,3
+NGAB,Abaiang Airport,Kiribati,small airport,1.798609972,173.0410004,2904,0,0,0,1
+MH-NDK,Namorik Atoll Airport,Marshall Islands,small airport,5.631669998,168.125,2900,0,0,0,1
+RPUU,Bulan Airport,Philippines,small airport,12.68420029,123.8779984,2900,0,0,0,3
+NTGD,Apataki Airport,France,small airport,-15.57359982,-146.4149933,2854,0,0,0,3
+MLIP,Mili Island Airport,Marshall Islands,small airport,6.083330154,171.7330017,2850,0,0,0,0
+MH-TIC,Tinak Airport,Marshall Islands,small airport,7.133329868,171.9170074,2850,0,0,0,1
+MH-WTO,Wotho Island Airport,Marshall Islands,small airport,10.17329979,166.003006,2850,0,0,0,0
+MH-LIK,Likiep Airport,Marshall Islands,small airport,9.823160172,169.3079987,2800,0,0,0,0
+AGGV,Suavanao Airport,Solomon Islands,small airport,-7.585559845,158.7310028,2789,0,0,0,0
+NVSM,Lamen Bay Airport,Vanuatu,small airport,-16.58419991,168.1589966,2789,0,0,0,1
+YBAU,Badu Island Airport,Australia,small airport,-10.14999962,142.1734009,2788,0,4,0,2
+AGAT,Uru Harbour Airport,Solomon Islands,small airport,-8.873330116,161.0110016,2769,0,0,0,1
+TW-CMJ,Chi Mei Airport,Taiwan,small airport,23.21310043,119.4179993,2766,0,0,0,3
+NVSL,Lamap Airport,Vanuatu,small airport,-16.45400047,167.822998,2755,0,0,0,1
+NTMP,Ua Pou Airport,France,small airport,-9.351670265,-140.0780029,2723,0,0,0,3
+PHLU,Kalaupapa Airport,United States,small airport,21.21100044,-156.973999,2700,75,0,0,3
+PG-GMI,Gasmata Island Airport,Papua New Guinea,small airport,-6.271110058,150.3309937,2690,0,0,0,0
+PG-IHU,Ihu Airport,Papua New Guinea,small airport,-7.89756012,145.3959961,2648,0,0,0,1
+RPLT,Itbayat Airport,Philippines,small airport,20.71699905,121.8170013,2628,0,0,0,3
+RORA,Aguni Airport,Japan,small airport,26.59250069,127.2409973,2625,0,1,0,3
+RORH,Hateruma Airport,Japan,small airport,24.05890083,123.8059998,2625,0,1,0,3
+ROKR,Kerama Airport,Japan,small airport,26.16830063,127.2929993,2625,0,0,0,3
+NVSF,Craig Cove Airport,Vanuatu,small airport,-16.26499939,167.923996,2598,0,0,0,1
+NFCI,Cicia Airport,Fiji,small airport,-17.74329948,-179.3419952,2500,0,0,0,1
+NFNH,Laucala Island Airport,Fiji,small airport,-16.74810028,-179.6670074,2500,0,0,0,3
+UJAP,Ujae Atoll Airport,Marshall Islands,small airport,8.928059578,165.7619934,2500,0,0,0,0
+NTMU,Ua Huka Airport,France,small airport,-8.936109543,-139.552002,2477,0,1,0,3
+NFNG,Ngau Airport,Fiji,small airport,-18.11560059,179.3399963,2474,0,0,0,0
+N20,Ine Airport,Marshall Islands,small airport,7.016670227,171.4830017,2450,50,0,0,1
+PHPA,Port Allen Airport,United States,small airport,21.89690018,-159.6029968,2450,60,0,0,3
+03N,Utirik Airport,Marshall Islands,small airport,11.22200012,169.852005,2400,50,0,0,1
+HI33,Haiku Airstrip,United States,small airport,21.94239998,-159.4400024,2400,60,0,0,3
+NFNK,Lakeba Island Airport,Fiji,small airport,-18.19919968,-178.8170013,2372,0,1,0,3
+PG-AWB,Awaba Airport,Papua New Guinea,small airport,-8.006110191,142.7483521,2313,0,0,0,1
+AYKK,Kikori Airport,Papua New Guinea,small airport,-7.424379826,144.2500763,2297,0,1,0,1
+NSMA,Maota Airport,Samoa,small airport,-13.74230003,-172.2579956,2297,0,0,0,3
+NVSG,Longana Airport,Vanuatu,small airport,-15.30669975,167.9669952,2297,0,0,0,2
+NVSO,Lonorore Airport,Vanuatu,small airport,-15.86559963,168.1719971,2297,0,0,0,3
+NVSC,Sola Airport,Vanuatu,small airport,-13.85169983,167.5370026,2297,0,0,0,1
+NFTE,Kaufana Airport,Tonga,small airport,-21.37829971,-174.9579926,2247,0,0,0,2
+AGGR,Rennell/Tingoa Airport,Solomon Islands,small airport,-11.53390026,160.0630035,2206,0,0,0,1
+NGMN,Makin Island Airport,Kiribati,small airport,3.374439955,172.9920044,2198,0,0,0,2
+NSFI,Fagali'i Airport,Samoa,small airport,-13.84869957,-171.7400055,2198,0,0,0,3
+AS-TAV,Tau Airport,United States,small airport,-14.22920036,-169.5110016,2170,0,0,0,2
+NVVD,Dillon's Bay Airport,Vanuatu,small airport,-18.76939964,169.0010071,2165,0,0,0,1
+NVSR,Redcliffe Airport,Vanuatu,small airport,-15.47200012,167.8350067,2165,0,0,0,1
+NVSW,Walaha Airport,Vanuatu,small airport,-15.4119997,167.6909943,2165,0,0,0,1
+MH-AIM,Ailuk Airport,Marshall Islands,small airport,10.21679974,169.9830017,2150,0,0,0,0
+NFNB,Levuka Airfield,Fiji,small airport,-17.71109962,178.7590027,2100,0,0,0,1
+NFFO,Malolo Lailai Island Airport,Fiji,small airport,-17.7779007,177.1970062,2100,0,0,0,0
+MH-AUL,Aur Island Airport,Marshall Islands,small airport,8.145279884,171.1730042,2100,0,0,0,2
+NVVA,Anelghowhat Airport,Vanuatu,small airport,-20.24920082,169.7709961,2001,0,0,0,1
+NVSI,Tavie Airport,Vanuatu,small airport,-16.43899918,168.2570038,2001,0,0,0,1
+NVST,Tongoa Island Airport,Vanuatu,small airport,-16.89109993,168.5509949,2001,0,0,0,1
+AGGU,Marau Airport,Solomon Islands,small airport,-9.86166954,160.8249969,2000,0,0,0,0
+NSAS,Ofu Village Airport,United States,small airport,-14.1843996,-169.6699982,2000,60,0,0,3
+HI25,Kaalaiki Airstrip,United States,small airport,19.12280083,-155.5780029,2000,40,0,0,1
+AEK,Aseki Airport,Papua New Guinea,small airport,-7.350804806,146.1938629,1969,0,0,0,1
+NVSV,Valesdir Airport,Vanuatu,small airport,-16.79610062,168.177002,1969,0,0,0,1
+NFSW,Yasawa Island Airport,Fiji,small airport,-16.75889969,177.5449982,1950,0,0,0,0
+MH-LML,Lae Island Airport,Marshall Islands,small airport,8.921110153,166.2649994,1950,0,0,0,0
+HI49,Panda Airport,United States,small airport,21.14789963,-157.2590027,1920,55,0,0,1
+NFMO,Moala Airport,Fiji,small airport,-18.56669998,179.951004,1900,0,0,0,1
+NVVF,Futuna Airport,Vanuatu,small airport,-19.51639938,170.2319946,1899,0,0,0,1
+HI28,Pahala Airstrip,United States,small airport,19.21619987,-155.4689941,1650,70,0,0,1
+TT01,Pagan Airstrip,United States,small airport,18.12439919,145.7689972,1500,120,0,0,1
